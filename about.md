@@ -6,7 +6,7 @@ permalink: /about/
 
 Esta es la cuarta etapa de mi bitácora sobre software libre, programación, desarrollo, seguridad y similares. Es una continuación del miBarrapunto que en su día tuve en [BarraPunto](http://barrapunto.com/), que tuvo su continuación como [Bitácora de fernand0 en BarraPunto](http://barrapunto.com/~fernand0/journal/), después en [MbpFernand0 en WordPress](http://mbpfernand0.wordpress.com/) y ahora sigue aquí...
 
-### ¿Nos acompañan¿
+### ¿Nos acompañan?
 
 ### Contact me/Contacto
 
