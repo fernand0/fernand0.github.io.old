@@ -3,7 +3,7 @@ layout: post
 title: Prueba
 category: test
 tags: test uno dos
-excerpt-separator: ""
+excerpt_separator: ""
 ---
 
 Esto es una prueba de un nuevo intento de Blog, esta vez en GitHub
