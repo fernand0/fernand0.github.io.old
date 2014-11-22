@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Prueba
+category: test
 ---
 
 Esto es una prueba de un nuevo intento de Blog, esta vez en GitHub
