@@ -25,8 +25,8 @@ footer-links:
   github: fernand0
   instagram: ftricas
   linkedin: fernand0
-  pinterest:
-  rss: # just type anything here for a working RSS icon
+  pinterest: 
+  rss:  feed.xml
   twitter: fernand0
   stackoverflow: users/5671682/fernand0 # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: user/fernand0 # channel/<your_long_string> or user/<user-name>
