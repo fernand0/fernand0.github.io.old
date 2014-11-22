@@ -26,7 +26,7 @@ footer-links:
   instagram: ftricas
   linkedin: fernand0
   pinterest: 
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss:  feed.xml
   twitter: fernand0
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
