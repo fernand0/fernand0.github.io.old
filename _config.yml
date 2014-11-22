@@ -26,7 +26,7 @@ footer-links:
   instagram: ftricas
   linkedin: fernand0
   pinterest: 
-  rss:  feed.xml
+  rss:  feed.xml # https://github.com/snaptortoise/jekyll-rss-feeds
   twitter: fernand0
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
