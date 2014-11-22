@@ -2,6 +2,7 @@
 layout: post
 title: Prueba
 category: test
+tags: test uno dos
 ---
 
 Esto es una prueba de un nuevo intento de Blog, esta vez en GitHub
