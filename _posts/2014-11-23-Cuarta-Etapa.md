@@ -8,6 +8,7 @@ tags: meta blog bitácora cambios
 Repito aquí una historia ya contada unas cuantas veces, a la que le vamos añadiendo matices y novedades.
 
 Copio de [Tercera Etapa](http://mbpfernand0.wordpress.com/2009/02/11/tercera-etapa/):
+
 >Esta bitácora nació allá por el 2001 en forma de [MiBarrapunto](http://barrapunto.com/articles/01/04/23/2033238.shtml): se trataba de un invento que hicieron los creadores de [BarraPunto](http://www.barrapunto.com/) para permitir a los usuarios tener su propia sección con algunas ideas que ya me gustaría ver en alguna plataforma ahora, pero que no cuajaron por problemas de escalabilidad del programa y falta de recursos en aquel momento para mejorarlo (destacable, la promiscuidad absoluta: cualquiera podía tomar una entrada cualquiera del sitio -en particular, de otros usuarios- y reformarla o simplemente republicarla en su propia página).
 
 Parte de esas ideas se han establecido en [GitHub](http://github.com/), donde el código puede copiarse, transformarse y reenviarse al autor original o a otros con herramientas bastante accesibles.
