@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Libro sobre seguridad en PHP
+title: Todo lo que querías saber sobre SQL y no querías preguntar
 category: seguridad
-tags: desarrollo SQL seguridad programación PHP
+tags: desarrollo SQL seguridad programación
 ---
 
-En [Survive The Deep End: PHP Security](http://phpsecurity.readthedocs.org/en/latest/) un libro (en desarrollo) sobre desarrollo seguro con PHP. Se trata de un proyecto que tiene huecos y tampoco tengo muy claro que esté avanzado. En todo caso, está abierto a contribuciones y a nuevos desarrollos en [PHP Security en GitHub](https://github.com/padraic/phpsecurity). 
+En [Everything you wanted to know about SQL injection (but were afraid to ask)](http://www.troyhunt.com/2013/07/everything-you-wanted-to-know-about-sql.html) comentarios interesantes sobre los problemas de seguridad que puede ocasionar el SQL. Desde el origen de los ataques a las formas más sofisticadas de ataques.
