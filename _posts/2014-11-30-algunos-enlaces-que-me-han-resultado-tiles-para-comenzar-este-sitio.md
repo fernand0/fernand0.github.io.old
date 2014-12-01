@@ -9,7 +9,7 @@ tags: meta jekyll blog rss vim
 Tengo una mala costumbre cuando estoy instalando/actualizando/configurando cosas: empiezo a abrir pestañas en el navegador que se van acumulando sin mucho orden y que luego nunca termino de eliminar.
 Ahora que esta bitácora está medio funcionando, voy a poner aquí esos enlaces con dos objetivos: cerrar esas pestañas, y tener recopilada la información para el futuro, o por si le sirve a alguien más.
 
-La primera inspiración vino de Burce Eckel, en este post: [New Programming Blog Site](http://bruceeckel.github.io/2014/11/17/new-programming-blog-site/) y luego su introducción [Using Github Pages for Blogging](http://bruceeckel.github.io/2014/11/19/using-github-pages/) de donde aprendí las primeras ideas.
+La primera inspiración vino de Bruce Eckel, en este post: [New Programming Blog Site](http://bruceeckel.github.io/2014/11/17/new-programming-blog-site/) y luego su introducción [Using Github Pages for Blogging](http://bruceeckel.github.io/2014/11/19/using-github-pages/) de donde aprendí las primeras ideas.
 
 La página de [GitHub Pages](GitHub Pages) y la explicación sobre cómo albergar un blog en [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/).
 
