@@ -6,7 +6,7 @@ category: programación
 tags: programación desarrollo twitter rss redes sociales difusión python
 ---
 
-No creo que el RSS esté muerto. Pero vemos que mucha gente prefiere recibir información a través de los sitios de redes sociales. Hasta publicaba lo que aparece en mis blogs utilizando servicios como [IFTT](http://ifttt.com/) y [dlvr.it](dlvr.it). 
+No creo que el RSS esté muerto. Pero vemos que mucha gente prefiere recibir información a través de los sitios de redes sociales. Hasta publicaba lo que aparece en mis blogs utilizando servicios como [IFTT](http://ifttt.com/) y [dlvr.it](http://dlvr.it/). 
 Son bastante cómodos y funcionan muy bien. Sin embargo, uno siempre se pregunta si podría hacerse unos programas a medida que nos permitan gestionar esa parte de la publicación y aprender un poco de paso.
 
 Empecé con la publicación en páginas de Facebook pero todavía no estoy satisfecho del resultado así que hablaremos primero de Twitter: al fin y al cabo sólo tenemos que publicar el título de la entrada y el enlace (y, tal vez, algún texto introductorio).
@@ -29,7 +29,7 @@ fernand0@aqui:~$ twitter
 Cuando hacemos esto se lanza el navegador para que nos autentifiquemos y demos permiso a la aplicación para actuar en nuestro nombre. Esto genera los tokens adecuados de identificación/autenticación, que se almacenan en `~/.twitter_oauth` (en un sistema de tipo Unix, se agradecerán comentarios sobre otros sistemas) que podremos reutilizar en nuestro programita.
 
 
-El programa es muy sencillo, se puede descargar en [rssToTwitter.py V.2014-12-04](https://github.com/fernand0/scripts/blob/6cf31041196b4c3149f9e595a34fa605208b2a78/rssToTwitter.py) (enlazo a la versión actual por si en el futuro hago algún cambio).
+El programa es muy sencillo, se puede descargar en [rssToTwitter.py V.2014-12-07](https://github.com/fernand0/scripts/blob/6cf31041196b4c3149f9e595a34fa605208b2a78/rssToTwitter.py) (enlazo a la versión actual por si en el futuro hago algún cambio).
 
 Empezamos leyendo la configuración:
 
