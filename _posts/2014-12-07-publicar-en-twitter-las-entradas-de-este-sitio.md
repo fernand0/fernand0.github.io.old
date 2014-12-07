@@ -29,7 +29,7 @@ fernand0@aqui:~$ twitter
 Cuando hacemos esto se lanza el navegador para que nos autentifiquemos y demos permiso a la aplicación para actuar en nuestro nombre. Esto genera los tokens adecuados de identificación/autenticación, que se almacenan en `~/.twitter_oauth` (en un sistema de tipo Unix, se agradecerán comentarios sobre otros sistemas) que podremos reutilizar en nuestro programita.
 
 
-El programa es muy sencillo, se puede descargar en [rssToTwitter.py V.2014-12-04](https://github.com/fernand0/scripts/blob/1ac96a2ee121ba9e848ece29e09ae7100c29ec9f/rssToTwitter.py) (enlazo a la versión actual por si en el futuro hago algún cambio).
+El programa es muy sencillo, se puede descargar en [rssToTwitter.py V.2014-12-04](https://github.com/fernand0/scripts/blob/6cf31041196b4c3149f9e595a34fa605208b2a78/rssToTwitter.py) (enlazo a la versión actual por si en el futuro hago algún cambio).
 
 Empezamos leyendo la configuración:
 
