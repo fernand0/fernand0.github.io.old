@@ -17,7 +17,7 @@ Primero, un artículo periodístico-'literario' donde se intenta justificar las 
 
 A continuación tres artículos que tienen bastantes puntos en común; discuten sobre algunas justificaciones que se dan de vez en cuando para imponer ciertas normas de seguridad sobre las claves.
 
-* Dinei Florencio, Cormac Herley, and Paul C. van Oorschot, [An Administrator's Guide to Internet Password * Research](http://research.microsoft.com/apps/pubs/?id=227130)
+* Dinei Florencio, Cormac Herley, and Paul C. van Oorschot, [An Administrator's Guide to Internet Password Research](http://research.microsoft.com/apps/pubs/?id=227130)
 * Dinei Florêncio, Cormac Herley, Baris Coskun, [[PDF] Do Strong Web Passwords Accomplish Anything?](https://www.usenix.org/event/hotsec07/tech/full_papers/florencio/florencio.pdf)
 * Dinei Florencio, Cormac Herley, and Paul C. van Oorschot, [[PDF] Password Portfolios and the Finite-Effort User: Sustainably Managing Large Numbers of Accounts](http://research.microsoft.com/pubs/217510/passwordPortfolios.pdf)
 
