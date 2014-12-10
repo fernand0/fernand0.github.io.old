@@ -16,6 +16,7 @@ Primero, un artículo periodístico-'literario' donde se intenta justificar las 
 [Llaves en Instagram](https://instagram.com/p/wb3h3nQB_x/)
 
 A continuación tres artículos que tienen bastantes puntos en común; discuten sobre algunas justificaciones que se dan de vez en cuando para imponer ciertas normas de seguridad sobre las claves.
+
 * Dinei Florencio, Cormac Herley, and Paul C. van Oorschot, [An Administrator's Guide to Internet Password * Research](http://research.microsoft.com/apps/pubs/?id=227130)
 * Dinei Florêncio, Cormac Herley, Baris Coskun, [[PDF] Do Strong Web Passwords Accomplish Anything?](https://www.usenix.org/event/hotsec07/tech/full_papers/florencio/florencio.pdf)
 * Dinei Florencio, Cormac Herley, and Paul C. van Oorschot, [[PDF] Password Portfolios and the Finite-Effort User: Sustainably Managing Large Numbers of Accounts](http://research.microsoft.com/pubs/217510/passwordPortfolios.pdf)
@@ -27,8 +28,7 @@ Traemos también un informe del SANS Institute, con información histórica: [[P
 Y, para terminar, 
 
 
-* [It Gets Worse: The Newest Sony Data Breach Exposes Thousands Of
-* Passwords](http://www.buzzfeed.com/charliewarzel/it-gets-worse-the-newest-sony-data-breach-exposes-thousands)
+* [It Gets Worse: The Newest Sony Data Breach Exposes Thousands Of Passwords](http://www.buzzfeed.com/charliewarzel/it-gets-worse-the-newest-sony-data-breach-exposes-thousands)
 Donde podemos leer:
 	Included in the newest data dump is a file directory titled "Password," which includes 139 Word documents, Excel spreadsheets, zip files, and PDFs containing thousands of passwords to Sony Pictures' internal computers, social media accounts, and web services accounts. Most of the files are plainly labeled with titles like "password list.xls" or "YouTube login passwords.xlsx." 
 
