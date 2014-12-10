@@ -3,7 +3,7 @@ layout: post
 title: "Algunos enlaces interesantes sobre claves"
 date: "Wed Dec 10 19:30:01 +0100 2014"
 category: seguridad
-tags: seguridad contraseñas claves passwords usuarios administradores enlaces historia usabilidad
+tags: seguridad contraseñas claves passwords usuarios administradores enlaces 
 ---
 
 
