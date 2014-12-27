@@ -8,6 +8,4 @@ tags: seguridad SQL enteros expresiones anidadas
 
 En [Exploiting Integer Based SQL Injection in Nested SQL Queries](http://blog.gdssecurity.com/labs/2013/10/8/exploiting-integer-based-sql-injection-in-nested-sql-queries.html) una demostración más de que las cosas que pueden ir mal se encuentran en cualuquier parte.
 
-<a href="https://www.flickr.com/photos/fernand0/136083657/" title="Fuente"><img src="https://farm1.staticflickr.com/55/136083657_8168a9d1c4_m.jpg" width="240"  alt="fuente" ></a>
-
 En este caso se trata de una pregunta SQL anidada que evalúa los parmámetros enteros que se le pasan como parámetro. Y también, cuando evaluamos otras cosas que el sistema de gestión de bases de datos sabe evaluar. Es un proceso bastante manual, claro, pero en los casos en los que no se hace validación de los datos puede permitir conocer cosas sobre la base de datos que no debería.
