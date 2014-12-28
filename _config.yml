@@ -10,7 +10,7 @@ description: Programación, seguridad, software libre ...
 url: http://fernand0.github.io/
 
 pagination: 10
-paginate_path: "page:num/"
+paginate_path: "/blog/page:num/"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/2467?v=3&s=460
