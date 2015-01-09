@@ -22,4 +22,4 @@ Los consejos:
 
 Esto es, especificar el generador que se va a utilizar explícitamente (para evitar terminar utilizando diferentes generadores en diferentes configuraciones e instalaciones); cuidado con que la incialización se haga de manera correcta (e imprendecible); las versiones recomendadas eran en aquel momento JRE 1.4.1 para Windows y JRE 1.4.2 para Solaris y Linux por lo menos; reinicializar la semilla del PRNG para reducir la utilidad de la información generada.  
 
-El otro día hablábamos del [Generador de números aleatorios de Intel]http://fernand0.github.io/Generador-Numeros-Aleatorios-Intel/) y allí se pueden encontrar un par de enlaces más sobre el tema.
+El otro día hablábamos del [Generador de números aleatorios de Int(http://fernand0.github.io/Generador-Numeros-Aleatorios-Intel/) y allí se pueden encontrar un par de enlaces más sobre el tema.
