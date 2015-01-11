@@ -61,15 +61,15 @@ En algunas entradas ponemos imágenes, que no queremos que aparezcan en el texto
 El contenido del enlace (ahora que ya sabemos que no es una etiqueta HTML) estará en `link.contents[0]` (puede haber más contenido, nuestros enlaces suelen ser 'sencillos'). 
 {% highlight python %}
 	linksTxt = linksTxt + "["+str(j)+"] " + link.contents[0] + "\n"
-{% highlight python %}
+{% endhighlight %}
 
 El enlace está en `link['href']`.
-{% endhighlight %}
+{% highlight python %}
 	linksTxt = linksTxt + "    " + link['href'] + "\n"
 {% endhighlight %}
 
 Ahora necesitamos el texto del HTML:
-{% endhighlight %}
+{% highlight python %}
 	print soup.get_text()
 {% endhighlight %}
 
