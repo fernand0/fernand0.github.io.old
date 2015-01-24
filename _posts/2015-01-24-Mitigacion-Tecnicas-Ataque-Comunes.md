@@ -12,6 +12,7 @@ tags: seguridad memoria gestión microsoft herramientas técnicas
 Un texto interesante en [Software defense: mitigating common exploitation techniques](http://blogs.technet.com/b/srd/archive/2013/12/11/software-defense-mitigating-common-exploitation-techniques.aspx) sobre diversas técnicas que los sistemas Windows ofrecen para proteger nuestros programas frente a ciertos ataques comunes, en particular relacionadas con la gestión de la memoria y dificultar a un atacante la posibilida de encontrar los datos en lugares predecibles.
 
 De la misma serie también se pueden leer:
-[Software Defense: mitigating stack corruption vulnerabilties](http://blogs.technet.com/b/srd/archive/2013/10/02/software-defense-mitigating-stack-corruption-vulnerabilties.aspx)
-[Software Defense: mitigating heap corruption vulnerabilities](http://blogs.technet.com/b/srd/archive/2013/10/29/software-defense-mitigation-heap-corruption-vulnerabilities.aspx)
-[Software defense: safe unlinking and reference count hardening](http://blogs.technet.com/b/srd/archive/2013/11/06/software-defense-safe-unlinking-and-reference-count-hardening.aspx)
+
+* [Software Defense: mitigating stack corruption vulnerabilties](http://blogs.technet.com/b/srd/archive/2013/10/02/software-defense-mitigating-stack-corruption-vulnerabilties.aspx)
+* [Software Defense: mitigating heap corruption vulnerabilities](http://blogs.technet.com/b/srd/archive/2013/10/29/software-defense-mitigation-heap-corruption-vulnerabilities.aspx)
+* [Software defense: safe unlinking and reference count hardening](http://blogs.technet.com/b/srd/archive/2013/11/06/software-defense-safe-unlinking-and-reference-count-hardening.aspx)
