@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Técnicas para evitar ataques comunes a la memoria"
-date: "Thu Jan 18 23:05:01 +0100 2015"
+date: "Sat Jan 24 19:10:01 +0100 2015"
 category: seguridad
 tags: seguridad memoria gestión microsoft herramientas técnicas
 ---
