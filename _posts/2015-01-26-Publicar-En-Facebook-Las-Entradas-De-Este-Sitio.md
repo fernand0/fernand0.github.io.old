@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "Publicar en Facebook las entradas de este sitio usando Python"
-date: "Mon Jan 26 13:30:01 +0100 2014"
+date: "Mon Jan 26 13:30:01 +0100 2015"
 category: programación
 tags: programación desarrollo facebook rss redes sociales difusión python api
 ---
+
+
+
+<a href="https://plus.google.com/112862240851570159916/posts/Ps9VHx71gCW" title="Enlaces"><img src="https://lh3.googleusercontent.com/-IVdMXNs-UyE/VLK46RXRP1I/AAAAAAAAJ7E/rvp7ZzTOy4I/w521-h423-no/2015-01-11-FacebookPage.png" width="240"  alt="Enlaces en Página de Facebook" style="float:left; margin:5px"></a>
 
 Ya anticipamos esta entrada hace un par de semanas en [Extraer enlaces de una página web](http://fernand0.github.io/Extraer-Enlaces-De-Una-Pagina-Web/). Allí hablábamos de formatear una entrada de este sitio (u otro que proporcione RSS) para publicarla en Facebook (o donde nos parezca, claro). 
 También en [Publicar en Twitter las entradas de este sitio usando Python](http://fernand0.github.io/publicar-en-twitter-las-entradas-de-este-sitio/) vimos algunas ideas sobre este tema, entonces para Twitter. 
