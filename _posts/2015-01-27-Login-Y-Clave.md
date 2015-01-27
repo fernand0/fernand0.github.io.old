@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Publicar en Facebook las entradas de este sitio usando Python"
+title: "Mostrar la contraseña en el formulario o no"
 date: "Tue Jan 27 11:50:01 +0100 2015"
 category: seguridad
 tags: seguridad login identificación autentificación contraseñas claves formularios passwords usabilidad ergnomía mostrar
