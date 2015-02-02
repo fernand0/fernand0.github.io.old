@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leer código de otros y buenos consejos de programación"
-date: "Sun Feb 2 17:10:01 +0100 2015"
+date: "Sun Feb 1 17:10:01 +0100 2015"
 category: programación
 tags: programación desarrollo código lectura estilo normas ideas
 ---
