@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Habemus tags"
-date: "Sun Feb 2 17:10:01 +0100 2015"
+date: "Mon Feb 2 11:55:01 +0100 2015"
 category: meta
 tags: meta blog github jekyll pages
 ---
