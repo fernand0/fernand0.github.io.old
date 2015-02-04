@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Habemus tags"
-date: "Wen Feb 4 11:55:01 +0100 2015"
+title: "Desarrollo seguro en el móvil"
+date: "Wen Feb 4 10:55:01 +0100 2015"
 category: seguridad
 tags: seguridad desarrollo teléfono móvil consejos listas
 ---
