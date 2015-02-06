@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Desarrollo seguro en el móvil"
+title: "Aleatoriedad y juegos"
 date: "Fri Feb 6 10:55:01 +0100 2015"
 category: desarrollo
 tags: desarrollo juegos aleatoriedad random sorteos prng modificaciones
