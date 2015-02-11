@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cabeceras de seguridad HTTP que deberías estar usando"
-date: "Mon Feb 9 18:10:01 +0100 2015"
+date: "Wed Feb 11 13:35:01 +0100 2015"
 category: seguridad
 tags: seguridad cabeceras headers HTTP
 ---
