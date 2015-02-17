@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Tarjetas, seguridad e incentivos"
-date: "Sun Feb 15 21:25:01 +0100 2015"
-category: "Raspberry Pi"
-tags: raspberry pi raspi servo movimiento hexápodo robot making
+date: "Tue Feb 17 23:45:01 +0100 2015"
+category: seguridad
+tags: seguridad tarjetas chip banda magnética bancos banca EEUU Europa motivos
 ---
 
 
