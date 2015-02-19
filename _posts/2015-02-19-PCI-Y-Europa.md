@@ -3,7 +3,7 @@ layout: post
 title: "PCI y Europa"
 date: "Thu Feb 19 17:52:01 +0100 2015"
 category: seguridad
-tags: seguridad tarjetas PCI standard datos 
+tags: seguridad tarjetas PCI standard datos estándar 
 ---
 
 
