@@ -8,7 +8,7 @@ tags: meta git control versiones web estática local servidor
 
 
 
-<a href="https://www.flickr.com/photos/fernand0/11389222363/" title="Tela de araña src="https://farm4.staticflickr.com/3721/11389222363_04d2d8ac3e_m.jpg" width="240"  alt="Tela de araña" style="float:left; margin:5px"></a> 
+<a href="https://www.flickr.com/photos/fernand0/11389222363/" title="Tela de araña" src="https://farm4.staticflickr.com/3721/11389222363_04d2d8ac3e_m.jpg" width="240"  alt="Tela de araña" style="float:left; margin:5px"></a> 
 Mantengo una página web con las cosas del trabajo desde hace bastante tiempo (la primera versión que hay en archive.org tiene una página que pone 1996, pero la verdad es que no recuerdo la fecha exacta, podría ser un poco antes). 
 Se puede ver en [Fernando Tricas WWW Homepage](http://webdiis.unizar.es/~ftricas/).
 Entonces no había sistemas de gestión de contenidos ni nada parecido y la manera en que hacíamos las páginas era copiando alguna que nos gustaba y poniendo nuestro contenido. 
