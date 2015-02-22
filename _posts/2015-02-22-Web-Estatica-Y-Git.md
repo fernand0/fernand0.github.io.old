@@ -102,7 +102,7 @@ La web se irá actualizando, y tendremos las versiones controladas para el caso 
 
 Algunos recursos adicionales:
 
-[Initing a new remote git repository with existing files](https://crashingdaily.wordpress.com/2009/09/02/initing-a-new-remote-git-repository-with-existing-files/)
-[Using Git to manage a web site](http://toroid.org/ams/git-website-howto)
-[git-upload-pack: command not found, how to fix this correctly](http://stackoverflow.com/questions/225291/git-upload-pack-command-not-found-how-to-fix-this-correctly)
-[Git Loves the Environment](http://git-scm.com/2010/04/11/environment.html)
+* [Initing a new remote git repository with existing files](https://crashingdaily.wordpress.com/2009/09/02/initing-a-new-remote-git-repository-with-existing-files/)
+* [Using Git to manage a web site](http://toroid.org/ams/git-website-howto)
+* [git-upload-pack: command not found, how to fix this correctly](http://stackoverflow.com/questions/225291/git-upload-pack-command-not-found-how-to-fix-this-correctly)
+* [Git Loves the Environment](http://git-scm.com/2010/04/11/environment.html)
