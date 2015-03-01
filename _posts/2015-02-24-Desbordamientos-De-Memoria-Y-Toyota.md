@@ -16,3 +16,5 @@ De hecho, parece ser uno de los peores casos de corrupción de variables por des
 Luego propone algunas medidas que podrían mejorar la situacion, tanto desde el punto de vista de la gestión de memoria como del sistema operativo y las pruebas (tests).
 
 En [The Toyota Owners Left Holding the Bag](http://www.safetyresearch.net/blog/articles/toyota-owners-left-holding-bag) podemos leer una descripción que simplemente habla de 'código espagueti', algunas consecuencias legales, los seguros...
+
+**Actualización (2015-03-01)** Nos enlazó Juanjo Navarro [ fernand0 @ GitHub.io y recursividad ](http://www.juanjonavarro.com/2015/02/25/fernand0-githubio-y-recursividad) y lo agradecemos aquí. Casi seguro que volveremos sobre este enlace acerca de nuestros sesgos y enfoques. Y también que hablaremos alguna vez de lo que Juanjo hable en su sitio. ¡Gracias!
