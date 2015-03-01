@@ -3,7 +3,7 @@ layout: post
 title: "Mitos sobre /dev/urandom y más sobre aleatoriedad y su medida"
 date: "Sun Mar 01 12:45:01 +0100 2015"
 category: seguridad
-tags: seguridad aleatorio random prng rng medida comparacones urandom generadores 
+tags: seguridad aleatorio random prng rng medida comparaciones urandom generadores 
 ---
 
 
