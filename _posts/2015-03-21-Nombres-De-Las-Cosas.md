@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Los nombres y las cosas"
-date: "Mon Mar 21 18:20:01 +0100 2015"
+date: "Sat Mar 21 18:20:01 +0100 2015"
 category: seguridad
 tags: seguridad nombres curiosidades windows microsoft
 ---
