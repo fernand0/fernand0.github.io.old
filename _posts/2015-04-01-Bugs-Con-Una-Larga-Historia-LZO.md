@@ -3,7 +3,7 @@ layout: post
 title: Bugs con una larga historia: LZO
 date: "Wed Apr 01 14:05:01 +0100 2015"
 category: seguridad
-tags: seguridad bugs lzo antiguo viejo ojos auditoría
+tags: seguridad bugs lzo antiguo viejo ojos auditoria
 ---
 
 
