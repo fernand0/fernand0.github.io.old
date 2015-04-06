@@ -3,7 +3,7 @@ layout: post
 title: Algunos artículos sobre pruebas
 date: "Mon Apr 06 18:10:01 +0100 2015"
 category: desarrollo
-tags: desarrollo pruebas testing bugs fallos qa
+tags: desarrollo pruebas testing bugs fallos qa fuzzing fuzz 
 ---
 
 
