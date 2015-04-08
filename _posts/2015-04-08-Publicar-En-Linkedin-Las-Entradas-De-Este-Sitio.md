@@ -10,7 +10,7 @@ tags: programación desarrollolinkedin rss redes sociales difusión python api
 
 Seguimos tratando de difundir el contenido de este sitio en diferentes redes sociales. Me da la impresión de que Google no presta demasiada atención a estos blogs (tampoco estoy muy seguro de que nadie fuera a buscar esto, en cualquier caso) pero sí que creo que se les puede dar (algo de) visibilidad en diferentes redes sociales.
 
-Ya hicimos el acercamiento a Twitter ([Publicar en Twitter las entradas de este sitio usando Python](http://fernand0.github.io/publicar-en-twitter-las-entradas-de-este-sitio/)) y Facebook ([Publicar en Facebook las entradas de este sitio usando Python]http://fernand0.github.io/Publicar-En-Facebook-Las-Entradas-De-Este-Sitio/). 
+Ya hicimos el acercamiento a Twitter ([Publicar en Twitter las entradas de este sitio usando Python](http://fernand0.github.io/publicar-en-twitter-las-entradas-de-este-sitio/)) y Facebook ([Publicar en Facebook las entradas de este sitio usando Python](http://fernand0.github.io/Publicar-En-Facebook-Las-Entradas-De-Este-Sitio/). 
 
 <a href="https://plus.google.com/u/1/112862240851570159916/posts/Sn8MeNeD53T" title="El resultado en LinkedIn"><img src="https://lh3.googleusercontent.com/-FoV-EJ9o5QA/VSVJJVPyt1I/AAAAAAAAKFU/tuSWqyDzXtc/w506-h900/15%2B-%2B1" width="240"  alt="Enlaces en Página de Facebook" style="float:left; margin:5px"></a>
 
