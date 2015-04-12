@@ -18,6 +18,6 @@ En [Un atacante remoto puede borrar todos los datos del reloj Pebble](http://una
 
 En este caso el problema parecía ser una denegación de servicio cuando se reciben demasiados mensajes (que podría ser una simple olestia) que se convierte en borrado de datos porque se produce una restauración del dispositivo a su estado inicial.
 
-No es la primera vez que nos encontramos con fallos en los mensajes: [SMS y fallos. Ahora en Windows Phone](https://mbpfernand0.wordpress.com/2011/12/15/sms-y-fallos-ahora-en-windows-phone/) y [Nuevos ataques con SMSs](https://mbpfernand0.wordpress.com/2009/12/06/nuevos-ataques-con-smss/). Hay más. Pero yo me he acordado de uno bastante más viejo: [Hackeando una red de telefonía con SMS's](http://barrapunto.com/~fernand0/journal/16933).
+No es la primera vez que nos encontramos con fallos en los mensajes: [SMS y fallos. Ahora en Windows Phone](https://mbpfernand0.wordpress.com/2011/12/15/sms-y-fallos-ahora-en-windows-phone/) y [Nuevos ataques con SMSs](https://mbpfernand0.wordpress.com/2009/12/06/nuevos-ataques-con-smss/). Hay más. Pero yo me he acordado de uno bastante más viejo: [Hackeando una red de telefonía con SMS's](http://barrapunto.com/~fernand0/journal/16933). En este se exploraban los límites de los teléfonos de la época (mucho menos capaces que ahora, eran 2005) y las propias redes.
 
 En [DoSing Pebble SmartWatch And Thus Deleting All Data Remotely](http://www.whitehatpages.com/2014/08/dosing-pebble-smartwatch-and-thus.html) se puede leer algún detalle más.
