@@ -28,4 +28,4 @@ También lo cuentan en [We never thought a video would be watched in numbers gre
 Si alguien tiene ganas de ver el vídeo:
 <br />
 <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9bZkp7q19f0" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9bZkp7q19f0" frameborder="0">&nbsp;</iframe>
