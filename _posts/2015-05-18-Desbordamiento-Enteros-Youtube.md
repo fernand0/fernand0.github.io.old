@@ -28,6 +28,4 @@ También lo cuentan en [We never thought a video would be watched in numbers gre
 Si alguien tiene ganas de ver el vídeo:
 <br />
 <br />
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9bZkp7q19f0" frameborder="0"></iframe>
-</div>
+[![Gangnam Style]((http://img.youtube.com/vi/9bZkp7q19f0/0.jpg)](https://www.youtube.com/watch?v=9bZkp7q19f0)
