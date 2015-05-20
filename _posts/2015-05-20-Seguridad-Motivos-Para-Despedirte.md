@@ -25,4 +25,3 @@ La lista es:
 * Abrir algún hueco con permisos para que cualquier persona pueda acceder a todo (ANY ANY)
 * No cambiar las contraseñas
 * Tratar cualquier vulnerabilidad como si fuera la más importante.
-* 
