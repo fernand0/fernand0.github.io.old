@@ -3,7 +3,7 @@ layout: post
 title: "Diez fallos de seguridad que harán que te despidan"
 date: "Wed May 20 16:45:01 +0100 2015"
 category: seguridad
-tags: seguridad reglas normas consejos ideas 
+tags: seguridad reglas normas consejos ideas gestión
 ---
 
 
