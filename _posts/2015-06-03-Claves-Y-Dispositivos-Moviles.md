@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Conferencia sobre 16 años de Hispasec"
-date: "Wed May 24 19:20:01 +0100 2015"
+title: "Contraseñas y dispositivos móviles"
+date: "Wed Jun 3 19:50:01 +0100 2015"
 category: seguridad
 tags: seguridad hispasec boletín listas correo
 ---
