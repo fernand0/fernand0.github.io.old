@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aleatoriedad y seguridad"
-date: "Wed Tue 9 18:30:01 +0100 2015"
+date: "Tue Jun 9 18:30:01 +0100 2015"
 category: seguridad
 tags: seguridad aleatoriedad random 
 ---
