@@ -3,7 +3,7 @@ layout: post
 title: "Mejorando las prestaciones de la biblioteca matemática en glib"
 date: "Tue Jun 9 18:30:01 +0100 2015"
 category: desarrollo
-tags: desarrollo libc glib matemáticas "red hat" biblioteca
+tags: desarrollo libc glib matemáticas red hat biblioteca
 ---
 
 
