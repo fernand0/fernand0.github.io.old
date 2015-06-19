@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El viajante y su Tesla"
-date: "Mon Jun 15 13:30:01 +0100 2015"
+date: "Fri Jun 19 19:10:01 +0100 2015"
 category: desarrollo
 tags: desarrollo libc glib matemáticas red hat biblioteca
 ---
