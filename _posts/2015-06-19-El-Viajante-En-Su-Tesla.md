@@ -3,7 +3,7 @@ layout: post
 title: "El viajante y su Tesla"
 date: "Fri Jun 19 19:10:01 +0100 2015"
 category: desarrollo
-tags: desarrollo libc glib matemáticas red hat biblioteca
+tags: desarrollo algoritmia tsp tesla problemas ejemplos mezcla
 ---
 
 
