@@ -3,7 +3,7 @@ layout: post
 title: "Aleatoriedad y seguridad"
 date: "Tue Jun 9 18:30:01 +0100 2015"
 category: seguridad
-tags: seguridad aleatoriedad random 
+tags:  seguridad PRNG RNG números aleatorios generador evaluación aleatoriedad random
 ---
 
 
