@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sobre re-identificación de datos anónimos"
-date: "Tue Sep 09 11:45:01 +0100 2015"
+date: "Wed Sep 09 11:45:01 +0100 2015"
 category: seguridad
 tags:  seguridad anonimización desanonimización intimidad privacidad tarjetas
 ---
