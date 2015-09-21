@@ -12,7 +12,7 @@ tags:  seguridad informes report BSA ciberseguridad EU Europa
 
 <a href="https://www.flickr.com/photos/fernand0/5273692332" title="Mandos"><img src="https://farm6.staticflickr.com/5205/5273692332_a0296970a1_m.jpg" width="240"  alt="Mandos" style="float:left; margin:5px"></a>
 
-El verano es para ponerse al día con las lecturas pendientes (que es algo que no he conseguido). En este caso, a título de inventario un informe: [EU Cybersecurity Dashboard](http://cybersecurity.bsa.org/index.html) de la BSA | The Software Alliance. Interesante para comparar unos países con otros, ver las cosas que se están haciendo (y las que no).
+El verano es para ponerse al día con las lecturas pendientes (que es algo que no he conseguido). En este caso, a título de inventario un informe: [EU Cybersecurity Dashboard](http://cybersecurity.bsa.org/index.html) de la BSA - The Software Alliance. Interesante para comparar unos países con otros, ver las cosas que se están haciendo (y las que no).
 
 El resumen para España:
 
