@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.date | date: "%B %e, %Y" }} {{ page.title }}</h1>
+  <h2>{{ page.date | date: "%Y-%m-%d" }}</h2> <h1>{{ page.title }}</h1>
 
   <p class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-chevron-left"></i></a> {% endif %} {% if page.next.url %} <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}"><i class="icon-chevron-right"></i></a> {% endif %} </p> 
   <div class="entry">
@@ -11,7 +11,7 @@ layout: default
   </div>
 
   <div class="date">
-    Escrito el {{ page.date | date: "%B %e, %Y" }} <br />
+    Escrito el {{ page.date | date: "%Y-%m-%d" }} <br />
     Categorías: {{ page.category }} <br />
     Tags: {% for tag in page.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a> {% if forloop.last != true %} {% endif %} {% endfor %}
   </div>
