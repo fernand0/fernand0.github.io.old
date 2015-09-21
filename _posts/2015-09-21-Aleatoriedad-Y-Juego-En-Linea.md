@@ -12,7 +12,7 @@ tags:  seguridad aleatoriedad random prng aleatorio random
 
 <a href="https://www.flickr.com/photos/fernand0/60933673/" title="Casino de Huesca"><img src="https://c1.staticflickr.com/1/28/60933673_49689a36d2_m.jpg" width="240"  alt="Casino físico" style="float:left; margin:5px"></a>
 
-Si alguien nos preguntase sobre si la aletoriedad es importante en seguridad, seguramente diríamos que sí. Si luego nos preguntaran cuánta atención habíamos dedicado a ella en nuesros proyectos tengo serias dudas sobre las respuestas. En este sitio se nos van acumulando ya las lecturas sobre el tema, pero siguen apareciendo nuevas. Y nos gusta referenciarlas.
+Si alguien nos preguntase sobre si la aletoriedad es importante en seguridad, seguramente diríamos que sí. Si luego nos preguntaran cuánta atención habíamos dedicado a ella en nuestros proyectos tengo serias dudas sobre las respuestas. En este sitio se nos van acumulando ya las lecturas sobre el tema, pero siguen apareciendo nuevas. Y nos gusta referenciarlas.
 
 Ahora es [The Role of Randomness in Online Gambling](https://www.cigital.com/blog/role-randomness-online-gambling/).
 En este caso el artículo me ha gustado porque no incide tanto en la parte más teécnica como en los aspectos relacionados con el juego y los jugadores.
@@ -32,4 +32,5 @@ No todo es aleatorio todo el rato:
 Últimamente hemos hablado de aleatoriedad en.
 
 [Números aleatorios seguros en Java](http://fernand0.github.io/Numeros-Aleatorios-Seguros-En-Java/)
+
 [Generador de números aleatorios de Intel](http://fernand0.github.io/Generador-Numeros-Aleatorios-Intel/)
