@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aleatoriedad y juego en línea"
-date: "Mon Sep 14 17:50:01 +0100 2015"
+date: "Mon Sep 21 13:35:01 +0100 2015"
 category: seguridad
 tags:  seguridad aleatoriedad random prng aleatorio random 
 ---
