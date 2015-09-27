@@ -14,6 +14,9 @@ layout: default
     Escrito el {{ page.date | date: "%Y-%m-%d" }} <br />
     Categorías: {{ page.category }} <br />
     Tags: {% for tag in page.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a> {% if forloop.last != true %} {% endif %} {% endfor %}
+    <br />
+    <br />
+    {% include share-page.html %} 
   </div>
 
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
