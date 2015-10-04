@@ -21,7 +21,7 @@ Incluso llegué a pensar en hacerme un programita para generarlo pero me parecí
 
 Primero, hago una **nueva** copia del sitio en local (con `git clone`): me servirá para generar el sitio con sus etiquetas y todo.
 
-En este sitio sigo las instrucciones de los desarrolladores del plugin [README](https://github.com/pattex/jekyll-tagging/blob/master/README.rdoc) para instalarlo. En particular, instalar la gema, generar el fichero `Gemfile`, poner el código en el directorio `_plugins` y modificar el `_config.yml`
+En este sitio sigo las instrucciones de los desarrolladores del plugin [README](https://github.com/pattex/jekyll-tagging/blob/master/README.rdoc) para instalarlo. En particular, instalar la gema, generar el fichero `Gemfile`, poner el código en el directorio `_plugins` y modificar el `_config.yml`.
 
 * Genero el sitio con `jekyll build --watch` y en `_site` lo tengo en estático.
 * Copio al sitio donde mantengo el repositorio local (donde edito, genero y publico los posts) el directorio `_site/tags` a la raíz (parte estática [pages](http://jekyllrb.com/docs/pages/)) , lo añado con `git add` y publico. 
