@@ -14,7 +14,7 @@ tags:  [seguridad, contraseñas, passwords, biometría, problemas]
 
 Recientemente hemos visto alguno de los problemas de la biometría: una vez que te roban, no puedes cambiar de huellas dactilares [5.6 million reasons fingerprints shouldn't be used as passwords](http://www.itworld.com/article/2986257/security/fingerprints-arent-passwords.html)
 
-Este verano se celebró el [https://www.blackhat.com/us-15/](Black Hat USA 2015) y entre las presentaciones disponibles en la web acabo de ver una que habla de más problemas: [https://www.blackhat.com/docs/us-15/materials/us-15-Keenan-Hidden-Risks-Of-Biometric-Identifiers-And-How-To-Avoid-Them.pdf]([PDF]Hidden Risks of Biometric Identifiers and How to Avoid Them) donde el autor hace una buena presentación del tema.
+Este verano se celebró el [Black Hat USA 2015](https://www.blackhat.com/us-15/) y entre las presentaciones disponibles en la web acabo de ver una que habla de más problemas: [[PDF]Hidden Risks of Biometric Identifiers and How to Avoid Them](https://www.blackhat.com/docs/us-15/materials/us-15-Keenan-Hidden-Risks-Of-Biometric-Identifiers-And-How-To-Avoid-Them.pdf) donde el autor hace una buena presentación del tema.
 
 Según él, los riesgos son:
 
@@ -26,4 +26,4 @@ Según él, los riesgos son:
 * Proporcionar nuestros datos biométricos y comportamentales puede llegar a ser obligatorio (al menos, de facto).
 * Ladrones de datos biométricos y agregadores
 
-Hace algún tiempo comentamos las [https://mbpfernand0.wordpress.com/2011/12/13/guias-sobre-biometria-del-inteco/](“Guías sobre biometría del INTECO”) con algunos enlaces más.
+Hace algún tiempo comentamos las [“Guías sobre biometría del INTECO”](https://mbpfernand0.wordpress.com/2011/12/13/guias-sobre-biometria-del-inteco/) con algunos enlaces más.
