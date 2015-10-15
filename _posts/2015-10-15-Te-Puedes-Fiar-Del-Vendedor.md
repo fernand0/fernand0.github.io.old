@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Te puedes fiar del vendedor de tu ordenador?"
-date: "Wed Oct 06 18:00:01 +0100 2015"
+date: "Wed Oct 15 13:45:01 +0100 2015"
 category: seguridad
 tags:  [seguridad, confianza, trust, superfish, toshiba, ssl]
 ---
