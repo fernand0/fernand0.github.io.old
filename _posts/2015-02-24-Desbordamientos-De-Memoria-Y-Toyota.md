@@ -3,7 +3,7 @@ layout: post
 title: "Desbordamientos de memoria y Toyota"
 date: "Tue Feb 24 23:55:01 +0100 2015"
 category: seguridad
-tags: seguridad toyota accidentes fallos desbordamiento memoria pila stack overflow
+tags: [seguridad, toyota, accidentes, fallos, desbordamiento, memoria, pila, stack, overflow, coches]
 ---
 
 
