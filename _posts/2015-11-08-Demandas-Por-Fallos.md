@@ -22,6 +22,12 @@ En [Lawsuit seeks damages against automakers and their hackable cars](http://www
 
 El informe está en [[PDF] Analysis of automobile manufacturers’ efforts reveals security and privacy gaps Tracking & Hacking: Security & Privacy Gaps Put American Drivers at Risk](http://www.markey.senate.gov/imo/media/doc/2015-02-06_MarkeyReport-Tracking_Hacking_CarSecurity%202.pdf).
 
+Eso sin hablar de las limitaciones informáticas de los coches modernos, en los que normalmente (y afortunadamente, si hacemos caso a los riesgos aparecidos) hay muy pocas de las posibilidades que nos ofrece un ordenador aprovechadasa adecuadamente:
+
+> "You can get into five-year-old luxury car and it...feels like a Nintendo game...compared to the experience on your smartphone," Morrison said in an earlier interview with Computerworld. 
+
+Que también tiene que ver con lo rápido que se quedarían anticuados (¿imaginas una pantalla como la de tu teléfono móvil de hace 5 años para tener en el vehículo durante otros cinco años más?).
+
 En [Senate Bill Seeks Standards For Cars’ Defenses From Hackers](http://www.wired.com/2015/07/senate-bill-seeks-standards-cars-defenses-hackers/) nos cuentan los planes sobre cómo abrodar el problema. Sin embargo, parece que las propuestas irían más bien en la línea de buscar 'standards' y buenas prácticas que las propias leyes (que era algo que se comentaba también en [Informe sobre ciberseguridad nacional en EEUU](http://fernand0.github.io/Informe-Seguridad-Nacional/).
 
 No se cómo andará la reclamación legal pero desde luego parece que hay un problema y ya han aparecido los primeros intentos de soluciones legales. Hemos hablado de [coches en mbpfernand0](https://mbpfernand0.wordpress.com/category/coches/) y [coches en esta bitácora](http://fernand0.github.io/tags/coches/).
