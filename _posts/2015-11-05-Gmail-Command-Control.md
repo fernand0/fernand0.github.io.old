@@ -3,7 +3,7 @@ layout: post
 title: "Command and Control con GMail"
 date: "Thu Nov 05 13:40:01 +0100 2015"
 category: seguridad
-tags:  [seguridad, troyanos, command, control, control, canal]
+tags:  [seguridad, troyanos, command, control, control, canal, hogar]
 ---
 
 
