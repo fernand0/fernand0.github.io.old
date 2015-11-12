@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Elogio de Python por el equipo de ingenierÌa de PayPal"
+title: "Elogio de Python por el equipo de ingenier√≠a de PayPal"
 date: "Thu Nov 12 13:10:01 +0100 2015"
 category: desarrollo
-tags:  [desarrollo, python, mitos, listas, consejos, programaciÛn]
+tags:  [desarrollo, python, mitos, listas, consejos, programaci√≥n]
 ---
 
 
@@ -11,9 +11,9 @@ tags:  [desarrollo, python, mitos, listas, consejos, programaciÛn]
 
 
 <a href="https://www.flickr.com/photos/fernand0/4748574677/" title="Portada Libro Python"><img src="https://c1.staticflickr.com/5/4097/4748574677_5c6d3db6cb_m.jpg" width="240"  alt="Portada Libro Python" style="float:left; margin:5px"></a>
-Desde hace alg˙n tiempo, cuando tengo que hacer un programita para resolver un problema de manera r·pida mi lenguaje elegido es Python. TambiÈn voy encontr·ndome mis limitaciones, esencialmente por no dedicarle atenciÛn suficiente a todo el entorno que ofrece para trabajar. De hecho, ya algunas entradas sobre [Python](http://fernand0.github.io/tags/python/) en esta bit·cora. Principalmente desarrollos que he ido haciendo pequeÒitos que tal vez podrÌan servirle a alguien m·s alguna vez.
+Desde hace alg√∫n tiempo, cuando tengo que hacer un programita para resolver un problema de manera r√°pida mi lenguaje elegido es Python. Tambi√©n voy encontr√°ndome mis limitaciones, esencialmente por no dedicarle atenci√≥n suficiente a todo el entorno que ofrece para trabajar. De hecho, ya algunas entradas sobre [Python](http://fernand0.github.io/tags/python/) en esta bit√°cora. Principalmente desarrollos que he ido haciendo peque√±itos que tal vez podr√≠an servirle a alguien m√°s alguna vez.
 
-Por eso me gustÛ leer [10 Myths of Enterprise Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/) que es un elogio por parte del equipo de ingenierÌa de PayPal, tratando de aclarar algunas ideas errÛneas sobre el lenguaje. Las listo:
+Por eso me gust√≥ leer [10 Myths of Enterprise Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/) que es un elogio por parte del equipo de ingenier√≠a de PayPal, tratando de aclarar algunas ideas err√≥neas sobre el lenguaje. Las listo:
 
 1. Python is a new language
 2. Python is not compiled
@@ -28,8 +28,8 @@ Por eso me gustÛ leer [10 Myths of Enterprise Python](https://www.paypal-enginee
 
 Vale la pena leerlas y echarles un vistazo para ver los argumentos.
 
-Mi relaciÛn con Python se basa fundamentalmente en que es r·pido para hacer pruebas (con la ventaja del intÈrprete para terminar de comprender cosas que no tienes muy controladas) y, a la vez, permitirÌa evolucionar a proyectos m·s grandes (que con scripts de shell no es trivial). TambiÈn sus 'batteries included' con bibliotecas disponibles casi para cualquier cosa que podamos querer hacer.
+Mi relaci√≥n con Python se basa fundamentalmente en que es r√°pido para hacer pruebas (con la ventaja del int√©rprete para terminar de comprender cosas que no tienes muy controladas) y, a la vez, permitir√≠a evolucionar a proyectos m√°s grandes (que con scripts de shell no es trivial). Tambi√©n sus 'batteries included' con bibliotecas disponibles casi para cualquier cosa que podamos querer hacer.
 
-Mis quejas con el lenguaje, que tambiÈn las hay, tendrÌan que ver con su incÛmodo sistema de gestiÛn de codificaciones (quiÈn no se haya enfrentado nunca al problema que nos diga como lo hizo), y la transiciÛn a Python 3 que no termina de llegar del todo.
+Mis quejas con el lenguaje, que tambi√©n las hay, tendr√≠an que ver con su inc√≥modo sistema de gesti√≥n de codificaciones (qui√©n no se haya enfrentado nunca al problema que nos diga como lo hizo), y la transici√≥n a Python 3 que no termina de llegar del todo.
 
-Entre mis carencias, la gestiÛn y pruebas con distintas versiones del lenguaje y el lÌo que (creo que) tengo montado en mis sistemas con la instalaciÛn de bibliotecas de terceros de manera poco adecuada. Estoy empezando a explorar [Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs/) y [pyenv](https://github.com/yyuu/pyenv) para ver si controlo estas cosas un poco mejor.
+Entre mis carencias, la gesti√≥n y pruebas con distintas versiones del lenguaje y el l√≠o que (creo que) tengo montado en mis sistemas con la instalaci√≥n de bibliotecas de terceros de manera poco adecuada. Estoy empezando a explorar [Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs/) y [pyenv](https://github.com/yyuu/pyenv) para ver si controlo estas cosas un poco mejor.
