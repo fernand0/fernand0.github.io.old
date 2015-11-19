@@ -36,3 +36,5 @@ En [Researchers Hacked a Model S, But Tesla's Already Released a Patch](http://w
 En todo caso, parece una ventaja desde el punto de vista de la seguridad clara para Tesla, con la preocupación que siempre tendremos de que no sabemos qué ocurre realmente con esas actualizaciones ni qué incluyen.
 
 Lo que no tengo tan claro es que alguien pueda terminar decidiéndose por un modelo u otro en función de esos factores; sí que puede ser un factor determinante para las marcas, que empiecen a darse cuenta del ahorro que puede suponer (¿con sus riesgos asociados?) instalar en los vehículos sistemas de actualización adecuados.
+
+Esta entrada está basada en [Las actualizaciones ... ¿como ventaja competitiva?](http://ra-amon.cps.unizar.es/blog/Asignaturas/seguridad/2015-11-19-11-15.html).
