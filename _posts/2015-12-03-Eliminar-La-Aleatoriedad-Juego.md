@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Más fallos con una larga historia"
+title: "Eliminar la aleatoriedad en un juego"
 date: "Thu Dec 03 08:50:01 +0100 2015"
 category: desarrollo
 tags:  [desarrollo, juegos, aleatoriedad, random, pruebas, experimentos, cambios]
