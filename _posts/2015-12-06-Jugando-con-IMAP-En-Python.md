@@ -123,3 +123,19 @@ Siguientes pasos: no tengo claro que el código de los hilos vaya a sobrevivir. 
 También me gustaría explorar sistemas alternativos de autentificación (GMail permite utilizar OAuth, si no me equivoco). Como mínimo, poder tener la contraseña cifrada en el fichero de configuración y tener sólo una contraseña manestra.
 
 ¿Ideas? ¿Comentarios? Estaremos escuchando en [@mbpfernand0](http://twitter.com/mbpfernand0) o en [@fernand0](http://twitter.com/fernand0).
+
+**Actualización (2015-12-07)** quise terminar esta entrada rápido y olvidé otro ejemplo que tengo a mano. En este caso se trataría de borrar basado en el contenido. Recibimos ciertos mensajes repetidos que querríamos eliminar de nuestras coias de seguridad. Para examinar el contenido de los mensajes utilizaríamos:
+
+{% highlight python %}
+	typ, data = M.fetch(num, '(BODY.PEEK[TEXT])')
+{% endhighlight %}
+
+Para determinar si el mensaje en cuestión es repetido, calculamos el `hash` (que tenemos precalculado) y lo comparamos:
+
+{% highlight python %}
+	m = hashlib.md5()
+	m.update(data[0][1])	
+	if (binascii.hexlify(m.digest())==HASH):
+		M.store(num, '+FLAGS', '\\Deleted')
+		i = i + 1
+{% endhighlight %}
