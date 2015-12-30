@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lecciones aprendidas desarrollando GitHub pages"
+title: "Desbordamientos de enteros recientes"
 date: "Wed Dec 30 19:45:01 +0100 2015"
 category: seguridad
 tags: [seguridad, fallos, strncat, putty, desbordamiento, enteros, overflow]
