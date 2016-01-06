@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Algunas técnicas contra el análisis de ejecutables"
-date: "Mon Jan 04 13:15:01 +0100 2016"
+date: "Wed Jan 06 18:15:01 +0100 2016"
 category: seguridad
 tags: [seguridad, análisis, debugging, anti, código, ejecutables]
 ---
