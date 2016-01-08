@@ -3,7 +3,7 @@ layout: post
 title: "Sobre inclusión más segura de contenidos con iframes"
 date: "Fri Jan 08 10:45:01 +0100 2016"
 category: seguridad
-tags: [seguridad, sandbox, iframe, html5, inclusión, marcos, contenido]]
+tags: [seguridad, sandbox, iframe, html5, inclusión, marcos, contenido]
 ---
 
 
