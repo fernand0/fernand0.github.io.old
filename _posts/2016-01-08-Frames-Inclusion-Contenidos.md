@@ -9,7 +9,7 @@ tags: [seguridad, sandbox, iframe, html5, inclusión, marcos, contenido]
 
 
 
-<a href="https://lh3.googleusercontent.com/Ai47q5eskdaVA1b9na4nXbhDp7LzgN10AUE1pMuIanfkyeC4wDxCM5OH15jyuNDZcZrF=w1680-h1050-no" title="Enmarcado"><img src="https://plus.google.com/u/1/photos/photo/112862240851570159916/6237348164241243442" width="240"  alt="Enmarcado" style="float:left; margin:5px"></a>
+<a href="https://plus.google.com/u/1/photos/photo/112862240851570159916/6237348164241243442" title="Enmarcado"><img src="https://lh3.googleusercontent.com/Ai47q5eskdaVA1b9na4nXbhDp7LzgN10AUE1pMuIanfkyeC4wDxCM5OH15jyuNDZcZrF=w1680-h1050-no" width="240"  alt="Enmarcado" style="float:left; margin:5px"></a>
 La utilización de *frames* es vieja en la red: permite incluir contenido de otros sitios en nuestra página y es un mecanismo que algunos servicios ofrecen como el habitual para este cometido. 
 
 > Nowadays, old-school (Netscape style) frames have fallen out of fashion, but iframes are more popular than ever. They’re used for advertising, social plugins (e.g. Facebook “like” buttons and “Share on Twitter” functionality), webpage widgets, and so on.
