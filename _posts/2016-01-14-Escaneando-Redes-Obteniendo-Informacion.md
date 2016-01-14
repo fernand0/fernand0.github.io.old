@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Claves falsas para despistar al atacante"
+title: "Alguien puede estar tratando de conocerte mejor"
 date: "Fri Jan 14 11:50:01 +0100 2016"
 category: seguridad
 tags: [seguridad, servidores, vigilancia, escaneo, ataques, información, meta-información, procesos, debilidades]
