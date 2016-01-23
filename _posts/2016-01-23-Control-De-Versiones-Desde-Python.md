@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Control de versiones desde Python"
-date: "Sat Jan 23 18:35:01 +0100 2015"
+date: "Sat Jan 23 18:35:01 +0100 2016"
 category: programación
 tags: [programación, python, correo, IMAP, sieve, sievelib, filtrado, scripts, código, git, versiones]
 ---
