@@ -2,8 +2,8 @@
 layout: post
 title: "Explicación de los principales algoritmos de minería de datos"
 date: "Mon Feb 08 17:08:01 +0100 2016"
-category: programación
-tags: [programación, informática, minería, datos, data, mining, algoritmos]
+category: desarrollo
+tags: [programación, desarrollo, informática, minería, datos, data, mining, algoritmos]
 ---
 
 
