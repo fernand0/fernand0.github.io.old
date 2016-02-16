@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Java después de veinte años"
-date: "Tue Feb 16 19:25:01 +0100 2016"
+date: "Tue Feb 16 19:40:01 +0100 2016"
 category: desarrollo
 tags: [programación, desarrollo, informática, Java, lenguajes, aniversarios]
 ---
