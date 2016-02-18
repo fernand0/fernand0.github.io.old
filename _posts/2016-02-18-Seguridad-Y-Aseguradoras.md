@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seguridad y aseguradoras"
-date: "Tue Feb 18 13:35:01 +0100 2016"
+date: "Thu Feb 18 13:35:01 +0100 2016"
 category: seguridad
 tags: [seguridad, responsabilidad, aseguradoras, seguros, demandas, clientes]
 ---
