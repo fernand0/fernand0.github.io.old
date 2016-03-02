@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Almancenamiento seguro de claves"
+title: "Almacenamiento seguro de claves"
 date: "Wed Mar 02 13:15:01 +0100 2016"
 category: seguridad
 tags: [seguridad, claves, contraseñas, passwords, almacenamiento]
