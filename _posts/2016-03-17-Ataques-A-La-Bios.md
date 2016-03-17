@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ataques a la BIOS en Apple"
-date: "Wed Mar 17 10:45:01 +0100 2016"
+date: "Thu Mar 17 10:45:01 +0100 2016"
 category: seguridad
 tags: [seguridad, BIOS, firmware, Apple, sleep, suspensión, rootkit, ataque]
 ---
