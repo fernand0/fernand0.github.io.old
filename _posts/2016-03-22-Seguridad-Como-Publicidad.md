@@ -16,4 +16,4 @@ Ya hemos hablado otras veces de estos temas: la seguridad hoy por hoy no constit
 Por eso traigo aquí una nota de prensa que ni siquiera conozco si ha tenido efecto en las ventas y si el programa sigue activo [Panda Security compensará a sus clientes en caso de infección](http://www.europapress.es/portaltic/software/noticia-panda-security-compensara-clientes-caso-infeccion-20150609155932.html). Indudablemente, utiliza la seguridad como argumento de ventas (algunos dirán que es trampa puesto que publicitan programas anti-virus que van, precisamente, de eso) pero hasta donde yo se, es la primera (o una de las primeras veces) que un anti-virus ofrecía ese nivel de garantía. Se pueden leer los términos en [Garantía Panda](http://www.pandasecurity.com/spain/warranty/) y dice:
 
 > Si te infectas tienes 6 meses de servicio gratis.
-> Y si tienes daños, o no te lo resolvemos en 24 horas, te devolvemos el dinero.
+> Y si tienes daños, o no te lo resolvemos en 24 horas, te devolvemos el diner.
