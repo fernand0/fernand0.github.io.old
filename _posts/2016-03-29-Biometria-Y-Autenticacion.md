@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Biometría y autenticación"
-date: "Tue Mar 29 12:20:01 +0100 2016"
+date: "Tue Mar 29 11:20:01 +0100 2016"
 category: seguridad
 tags: [seguridad, biometría, dinámica, autenticación, somos]
 ---
