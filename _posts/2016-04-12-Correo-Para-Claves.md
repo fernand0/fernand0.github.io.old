@@ -17,6 +17,7 @@ En este caso lo contaban en [How to Fix Authentication: Email as a Password Mana
 No termino de estar de acuerdo con la 'ventaja' de evitar el Facebook Connect (y similares) salvo por evitar su complejidad. Y tampoco con que no se puede aplicar fuerza bruta: obviamente se puede, aunque nosotros ahora tenemos más control sobre la dificultad de encontrar los enlaces, frente a las contraseñas que los usuarios suelen elegir de manera inadecuada. 
 
 Como inconveniente, está claro que trasladamos toda la seguridad de nuestro sistema al proveedor de correo y a la gestión que el usuario haga de él.
+Hay más, claro, nunca nada es tan fácil como creemos al principio.
 
 No habría que olvidar la vigilancia de las cuentas gestionadas de esta manera (observación de anomalías, cambios, novedades,...) que también parece ser una de las tendencias en seguridad de cuentas hoy en día.
 
