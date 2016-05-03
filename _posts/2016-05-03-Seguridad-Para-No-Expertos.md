@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un informe sobre productos criptográficos"
-date: "Tue May 4 17:20:01 +0100 2016"
+date: "Tue May 3 17:20:01 +0100 2016"
 category: seguridad
 tags: [seguridad, usuarios, empatía, simplicidad, utilidad, ayuda]
 ---
