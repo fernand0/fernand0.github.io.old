@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un informe sobre productos criptográficos"
+title: "Seguridad para usuarios no interesados en seguridad"
 date: "Tue May 3 17:20:01 +0100 2016"
 category: seguridad
 tags: [seguridad, usuarios, empatía, simplicidad, utilidad, ayuda]
