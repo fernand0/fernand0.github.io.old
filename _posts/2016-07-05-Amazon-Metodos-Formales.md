@@ -3,7 +3,7 @@ layout: post
 title: "Amazon. Elogio de los métodos formales"
 date: "Tue Jul 5 17:30:01 +0100 2016"
 category: desarrollo
-tags: [desarrollo, métodos formales, métodos, formales, model, checking, model checking]
+tags: [desarrollo, métodos formales, métodos, formales, model, checking, model checking, amazon, AWS]
 ---
 
 
