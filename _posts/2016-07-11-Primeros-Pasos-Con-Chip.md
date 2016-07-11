@@ -20,16 +20,24 @@ Frente a otras placas y sistemas que nos hacen esforzarnos un poco al principio,
 
 > If everything went OK, you can now power up your CHIP again and connect via serial as a USB gadget:
 
+[code]
   screen /dev/ttyACM0 115200
+[/code]
 
 Ya imagino que esto puede ser un freno para muchos así que tranquilos, que también se puede usar con la tele o con una pantalla y usar el ratón:
 
+<div align="center">
 <a href="https://www.instagram.com/p/BHosUwahC0X/" title="C.H.I.P. on TV"><img src="https://scontent.cdninstagram.com/t51.2885-15/e35/13597543_1770971849782604_173704173_n.jpg" width="240"  alt="C.H.I.P. on TV" style="float:left; margin:5px"></a>
+</div>
+
 Y desde allí configurar la red (sin más cables que un USB), el ssh, el usuario de trabajo y ponerse a funcionar la próxima vez que arranque. También tiene (por si fuera necesario) un gestor de conexiones basado en texto (nmcli) y sólo si queremos redes más complicadas (de tipo empresarial) necesitaremos trabajar un poco más. Aunque gracias a eso he 'descubierto' las ventajas de copiar y pegar las configuraciones entre sistemas (con cuidado) e incluso se me ha ocurrido un posible proyecto: [Sharing WiFi configuration files over diffferent computers](http://askubuntu.com/questions/796972/sharing-wifi-configuration-files-over-diffferent-computers). También que, aparentemente, es un tema que ya está bien resuelto en Windows 10 y en Mac OS. Tenemos que espabilar.  
 
 El escritorio:
 
+<div align="center">
 <a href="https://www.instagram.com/p/BHosfjSBN9e/" title="C.H.I.P. Desktop"><img src="https://scontent.cdninstagram.com/t51.2885-15/e35/13584130_1750517428559546_1192437614_n.jpg" width="240"  alt="C.H.I.P. Desktop" style="float:left; margin:5px"></a>
+</div>
+
 
 No he tenido tiempo de mucho más (instalar el Python, el [https://github.com/yyuu/pyenv-installer](pyenv) y fantasear sobre hacer algunas pruebas con el MeArm (ahora sí).
 
