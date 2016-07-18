@@ -32,10 +32,6 @@ Una de las web de referencia sería [Pine64](http://pine64.com/) y allí se pued
 
 Una vez que conseguimos que arranque disponemos de un sistema funcionando que configuramos a nuestro gusto y podemos empezar a trabajar. En unas pruebas sencillas se ve que es más rápida que el C.H.I.P. y la vieja Raspberry pero en la práctica la sensación no es de mucha soltura (si me preguntaran sin haber hecho alguna prueba habría dicho que el C.H.I.P. iba más fluído). Eso a pesar de tener un procesador a priori más capaz y cuatro cores.
 
-<div align="center">
-<a href="https://www.instagram.com/p/BHosUwahC0X/" title="C.H.I.P. on TV"><img src="https://scontent.cdninstagram.com/t51.2885-15/e35/13597543_1770971849782604_173704173_n.jpg" width="240"  alt="C.H.I.P. on TV" style="float:center"></a>
-</div>
-
 Seguimos aprovechándonos de la copia de configuraciones desde otras máquinas para poder conectarnos en diferentes sitios y ya podemos gestionarla desde un portátil mediante ssh.
 
 El escritorio:
