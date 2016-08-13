@@ -12,7 +12,17 @@ tags: python, Node.js, ruby, typosquatting, ocupación, nombres, paquetes, módu
 Queremos que todo sea fácil: descubrir algo, instalarlo, que se ejecute sin problemas y pasar a pensar en otra cosa.
 Basándose en la idea del *typosquatting* basado en DNS (esto es, cuando tecleamos de manera incorrecta el nombre de un sitio web), Nikolai Philipp Tschacher pensó en explorar la posibilidad de hacer algo parecido con los repositorios de código de diversos lenguajes: se crean paquetes con nombres parecidos a los de algunos de uso frecuente y se monitoriza el número de instalaciones de los mismos.
 
+Lo cuenta en [Typosquatting programming language package managers](http://incolumitas.com/2016/06/08/typosquatting-package-managers/) y desde allí se puede acceder a un documento completo en pdf.
+
 Los resultados son interesantes: más de 17.000 máquinas instalaron esos paquetes y ejecutaron el código, siendo alrededor de la mitad las instalaciones realizaddas con permisos de administrador.
+
+> As a sample data set I will make use of my workout progress data between May 2016 and August 2016.
+
+> 17000 computers were forced to execute arbitrary code by typosquatting programming language packages/libraries
+> 50% of these installations were conducted with administrative rights
+> Even highly security aware institutions (.gov and .mil hosts) fell victim to this attack
+>_ a typosquatting attack becomes wormable by mining the command history data of hosts
+> some good defenses against typosquatting package managers might look like
 
 Es cierto que los investigadores de seguridad se dieron cuenta con cierta rápidez de que estaba ocurriendo el problema (unos días). El experimento se realizó entre noviembre de 2015 y enero de 2016, subiendo un cierto número de paquetes de los que más de la mitad se había generado el nombre de manera aleatoria. Los lenguajes elegidos para el ataque fueron Python, Node.js (recuerden el incidente con aquél paquete ...) y Ruby, aunque otros podrían tener problemas similares con los repositorios análogos (con GitHub y otros alojamientos podrían pensarse ataques similares, si alguien se toma la molestia).
 
