@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El copyright puede facilitar algunos fraudes"
-date: "Sat Aug 30 16:25:01 +0100 2016"
+date: "Tue Aug 30 16:25:01 +0100 2016"
 category: copyright
 tags: copyright, propiedad, intelectual, volkswagen, miles, ojos, auditoría, vigilancia, pruebas, fallos
 ---
