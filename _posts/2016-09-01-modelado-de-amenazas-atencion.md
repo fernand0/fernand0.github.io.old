@@ -3,7 +3,7 @@ layout: post
 title: "Algunas cuestiones que hay que tener en cuenta con el modelado de amenazas"
 date: "Thu Sep 01 13:25:01 +0100 2016"
 category: seguridad
-tags: seguridad, amenazas, modelado, threat, modelling, 
+tags: seguridad, amenazas, modelado, threat, modelling
 ---
 
 
