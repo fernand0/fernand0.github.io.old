@@ -15,33 +15,43 @@ Por eso nos centramos en riesgos y cómo evitarlos/mitigarlos. Para ello podemos
 En [Threat Modeling 101: Ten Common Traps Not to Fall Into](http://www.tripwire.com/state-of-security/security-data-protection/threat-modeling-10-common-traps-you-dont-want-to-fall-into/) hablan del modelado de amenazas ('threat modelling') y algunos trampas en las que se puede caer y que conviene tener en cuenta:
 
 * Usar nuestros sentimientos
+
 Está bien que conozcamos el negocio y todo eso, pero nuestras sensaciones no son suficientes para justificar decisiones. Sobre todo por lo que podemos dejarnos en el camino.
 
 * Nunca terminas de hacer modelado de amenazas.
+
 Puede ser cierto, siempre hay más cuestiones que considerar. Sugieren seguir los pasos: modelar, identificar amenazas, mitigar, validar.
 
 * La forma de hacer modelado de amenazas es X
+
 Como casi siempre, la forma perfecta de hacer las cosas no existe, depende del contexto, de quién lo hace, los medios disponibles,...
 
 * Se trata de una capacidad ('skill')
+
 En realidad se trata de un conjunto de técncias y herramientas para mejorar en nuestra habilidad de llevar a cabo el trabajo. También la lectura y formación adecuadas.
 
 * El modelado de amenazas se sabe, no se aprende
+
 Como todo, se trata de aprender, practicar, perfeccionar...
 
 * Foco incorrecto
+
 A veces se piensa que el objetivo es encontrar amenazas cuando en realidad se trata de mitigarlas y/o solucionarlas.
 
 * El modelado de amenazas es para especialistas.
+
 En realidad cualquier desarrollador debería incluir en su proceso de desarollo estas ideas, para hacer sus programas mejores.
 
 * El modelado de amenazas de manera aislada.
+
 En realidad puede ser otra forma más de ayudar a comunicar a los distintos agenets en el procseo.
 
 * Excesivo foco en las amenazas.
+
 En realidad los ataques, elementos de mitigación y requisitos van de la mano. Unos pueden ayudar a comprender mejor los otros e incluso pueden obligar a tener que adaptarlos.
 
 * Modelado de amenazas en el momento incorrecto.
+
 Como siempre, pensar en la seguridad al final del proceso es la receta segura para que haya cosas que ya no tengan remedio.
 
 Se puede ver una retransmisión de la charla en [Threat Modeling: Lessons from Star Wars - Adam Shostack](http://www.tripwire.com/register/threat-modeling-lessons-from-star-wars-adam-shostack/) aunque a lo mejor con las ideas principales ya nos parece suficiente.
