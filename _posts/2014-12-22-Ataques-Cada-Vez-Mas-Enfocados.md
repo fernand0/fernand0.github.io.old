@@ -8,7 +8,9 @@ tags: seguridad confianza seguridad enfocados dirigidos
 
 En [Watering hole: nuevos términos para ¿nuevos? ataques ](http://blog.elevenpaths.com/2013/10/watering-hole-nuevos-terminos-para.html) se habla del nombre que se ha empezado a dar a los ataques dirigidos realizados desde sitios web más o menos comunes ('watering hole' sería el bebedero a donde acuden los animales a saciar su sed). 
 
+<figure>
 <a href="https://www.flickr.com/photos/fernand0/136083657/" title="Fuente"><img src="https://farm1.staticflickr.com/55/136083657_8168a9d1c4_m.jpg" width="240"  alt="fuente" ></a>
+</figure>
 
 La analogía sería un sitio web frecuentado por un determinado número de personas, entre las que se encuentra el objetivo. Como se trata de un sitio que seguramente visitaría con frecuencia, relajaría las condiciones de acceso y sería menos precavido. 
 
