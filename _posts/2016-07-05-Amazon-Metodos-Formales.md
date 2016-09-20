@@ -9,8 +9,9 @@ tags: [desarrollo, métodos formales, métodos, formales, model, checking, model
 
 
 
-
+<figure>
 <a href="https://www.flickr.com/photos/fernand0/26799157635" title="Bicho"><img src="https://c2.staticflickr.com/8/7399/26799157635_e9fcf3afd9_m.jpg" width="240"  alt="Bug" style="float:left; margin:5px"></a>
+</figure>
 Cuando hablemos de métodos formales en informática enseguida nos tacharán de teóóricos, alejados de la realidad y poco prácticos.
 Tal vez sea así para programas sencillos y poco comprometidos, pero a partir de cierto nivel de complejidad una herramienta más siempre ayudará. En [How Amazon Web Services Uses Formal Methods](http://cacm.acm.org/magazines/2015/4/184701-how-amazon-web-services-uses-formal-methods/fulltext) (no se si está accesible públicamente, tal vez este sí que sea fácil de leer [[PDF] Use of Formal Methods at Amazon Web Services](http://research.microsoft.com/en-us/um/people/lamport/tla/formal-methods-amazon.pdf)).
 
