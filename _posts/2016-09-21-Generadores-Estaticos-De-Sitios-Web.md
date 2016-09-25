@@ -8,9 +8,7 @@ tags: meta, cms, gestor, contenidos, web, estática
 
 
 
-<figure>
-<a href="https://www.instagram.com/p/ymJHX1QB4e/" title="El sitio en GitHub"><img src="https://scontent.cdninstagram.com/t51.2885-15/e15/10948691_910688058976573_568973005_n.jpg" width="240"  alt="El sitio en GitHub" style="float:left; margin:5px"></a>
-</figure>
+<a href="https://www.instagram.com/p/ymJHX1QB4e/" title="El sitio en GitHub"><figure><img src="https://scontent.cdninstagram.com/t51.2885-15/e15/10948691_910688058976573_568973005_n.jpg" width="240"  alt="El sitio en GitHub" style="float:left; margin:5px"></figure></a>
 Siempre me ha parecido sugerente la idea de un sitio generado de manera estática. Por eso me gustó experimentar con [pyblosxom](https://pyblosxom.github.io/) (que no está demasiado activo, la verdad) y me decidí a migrar desde Wordpress aquí (aunque lo estático de este sitio se podría poner en duda de muchas formas porque cualquiera sabe, al final, lo que realmente hay por detrás). Contábamos el traslado en [Cuarta etapa](http://fernand0.github.io/Cuarta-Etapa/).
 
 Con todas las ventajas de los gestores de contenidos disponibles por ahí uno se quedaba tranquilo con encontrar una solución que se adapte a sus rarezas y olvida el tema. Hasta que descubre que algunos dicen que este tipo de gestores que nos gustan son 'la próxima gran cosa' (en su contexto, imagino). Al menos eso es lo que decían en [Why Static Website Generators Are The Next Big Thing](https://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/).
