@@ -4,6 +4,7 @@ title: "Sobre generadores de sitios web estáticos"
 date: "Wed Sep 21 17:25:01 +0100 2016"
 category: meta
 tags: meta, cms, gestor, contenidos, web, estática
+imagefeature: https://scontent.cdninstagram.com/t51.2885-15/e15/10948691_910688058976573_568973005_n.jpg 
 ---
 
 
