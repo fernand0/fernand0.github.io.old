@@ -3,12 +3,13 @@ layout: post
 title: "Ataques por ocupación de nombres de paquetes en diversos lenguajes"
 date: "Sat Aug 13 10:25:01 +0100 2016"
 category: seguridad
+imagefeature: https://c1.staticflickr.com/3/2348/2137644411_23bae9346f_m.jpg
 tags: python, Node.js, ruby, typosquatting, ocupación, nombres, paquetes, módulos, ataques, programación, desarrollo
 ---
 
 
 
-<a href="https://www.flickr.com/photos/fernand0/2137644411" title="Paquete"><figure><img src="https://c1.staticflickr.com/3/2348/2137644411_23bae9346f_m.jpg" width="240"  alt="Paquete" style="float:left; margin:5px"></figure></a>
+<a href="https://www.flickr.com/photos/fernand0/2137644411" title="Paquete"><img src="https://c1.staticflickr.com/3/2348/2137644411_23bae9346f_m.jpg" width="240"  alt="Paquete" style="float:left; margin:5px"></a>
 Queremos que todo sea fácil: descubrir algo, instalarlo, que se ejecute sin problemas y pasar a pensar en otra cosa.
 Basándose en la idea del *typosquatting* basado en DNS (esto es, cuando tecleamos de manera incorrecta el nombre de un sitio web), Nikolai Philipp Tschacher pensó en explorar la posibilidad de hacer algo parecido con los repositorios de código de diversos lenguajes: se crean paquetes con nombres parecidos a los de algunos de uso frecuente y se monitoriza el número de instalaciones de los mismos.
 

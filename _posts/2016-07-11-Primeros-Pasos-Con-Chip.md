@@ -3,6 +3,7 @@ layout: post
 title: "Primeros pasos con el C.H.I.P."
 date: "Mon Jul 11 16:30:01 +0100 2016"
 category: making
+imagefeature: https://scontent.cdninstagram.com/t51.2885-15/e35/13597694_308352186166055_1513547827_n.jpg
 tags: [making, C.H.I.P., soc, ordenador, pruebas, compras]
 ---
 
@@ -10,7 +11,7 @@ tags: [making, C.H.I.P., soc, ordenador, pruebas, compras]
 
 
 
-<a href="https://www.instagram.com/p/BHjol17hGVx/" title="C.H.I.P."><figure><img src="https://scontent.cdninstagram.com/t51.2885-15/e35/13597694_308352186166055_1513547827_n.jpg" width="240"  alt="C.H.I.P." style="float:left; margin:5px"></figure></a>
+<a href="https://www.instagram.com/p/BHjol17hGVx/" title="C.H.I.P."><img src="https://scontent.cdninstagram.com/t51.2885-15/e35/13597694_308352186166055_1513547827_n.jpg" width="240"  alt="C.H.I.P." style="float:left; margin:5px"></a>
 Durante el último año he apoyado algunos proyectos en Kickstarter. Por ser más concreto, el [MeARm](https://www.kickstarter.com/projects/phenoptix/mearm-pocket-sized-industrial-robotics-for-everybo) que lo tengo en dique seco, [PiJuice](https://www.kickstarter.com/projects/pijuice/pijuice-a-portable-project-platform-for-every-rasp) que sigue sufriendo retrasos, [Pine64](https://www.kickstarter.com/projects/pine64/pine-a64-first-15-64-bit-single-board-super-comput), que llegó hace algunas semanas pero todavía no he podido ponerlo a funcionar (comentaré, supongo, sobre ello más adelante). Además compré un par de [C.H.I.P.](https://getchip.com/) que no era en Kickstarter pero si ha seguido el modelo de compra anticipada y ya lo recibirás.
 Entre los inconvenientes de este modelo de compra es que el momento en que decides apostar por un proyecto no tiene nada que ver con el momento en el que recibes el resultado.
 
