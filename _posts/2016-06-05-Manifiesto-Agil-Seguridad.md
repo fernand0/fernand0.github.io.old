@@ -9,7 +9,7 @@ tags: [seguridad, desarrollo, ágil, agile, manifiesto, manifesto]
 
 
 
-<figure> <a href="https://www.cigital.com/resources/ebooks-and-whitepapers/agile-security-manifesto-principles/" title="Agile Security Manifesto"><img src="https://www.cigital.com/wp-content/uploads/2016/05/agile-security-manifesto-social-300x149.jpg" width="240"  alt="Agile Security Manifesto" style="float:left; margin:5px"></a></figure>
+<a href="https://www.cigital.com/resources/ebooks-and-whitepapers/agile-security-manifesto-principles/" title="Agile Security Manifesto"><figure><img src="https://www.cigital.com/wp-content/uploads/2016/05/agile-security-manifesto-social-300x149.jpg" width="240"  alt="Agile Security Manifesto" style="float:left; margin:5px"></figure></a>
 No es la primera vez que hablamos de desarrolo ágil y seguridad ([Seguridad en proyectos ágiles](http://fernand0.github.io/Seguridad-Agil/) y [DevOps y seguridad](http://fernand0.github.io/Devops-Y-Seguridad/). En esta ocasión nos referiremos a [The Agile Security Manifesto](https://www.cigital.com/resources/ebooks-and-whitepapers/agile-security-manifesto-principles/) de la empresa Cigital, que propone los siguientes principios:
 
 * Confiar en los desarrolladores y probadores más que en los especialistas en seguridad
