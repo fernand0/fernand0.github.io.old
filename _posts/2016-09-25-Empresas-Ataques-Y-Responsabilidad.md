@@ -9,7 +9,7 @@ imagefeature: https://c2.staticflickr.com/8/7212/6997024785_1261f7d10d_m.jpg
 
 
 
-<a href="https://www.flickr.com/photos/fernand0/6997024785" title="Geekonomics"><img src="https://c2.staticflickr.com/8/7212/6997024785_1261f7d10d_m.jpg" width="240" alt="Geekonomics" style="float:left; margin:5px" />
+<a href="https://www.flickr.com/photos/fernand0/6997024785" title="Geekonomics"><img src="https://c2.staticflickr.com/8/7212/6997024785_1261f7d10d_m.jpg" width="240" alt="Geekonomics" style="float:left; margin:5px" /></a>
 Este tema aparece por aquí de vez en cuando: en este caso, desde el punto de vista del atacado ¿son las empresas responsables de los ataques que sufren?. En [90% of directors believe regulators should hold firms liable for hacks](https://www.helpnetsecurity.com/2015/11/05/90-of-directors-believe-regulators-should-hold-firms-liable-for-hacks/) dicen que sí. 
 
 El matiz es que se haya prestado la debida atención ('due care') o no:
