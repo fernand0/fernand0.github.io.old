@@ -3,6 +3,7 @@ layout: post
 title: "Seguridad para usuarios no interesados en seguridad"
 date: "Tue May 3 17:20:01 +0100 2016"
 category: seguridad
+imagefeature: https://c2.staticflickr.com/2/1719/24617628099_07a6021602_m.jpg
 tags: [seguridad, usuarios, empatía, simplicidad, utilidad, ayuda]
 ---
 
@@ -10,7 +11,7 @@ tags: [seguridad, usuarios, empatía, simplicidad, utilidad, ayuda]
 
 
 
-<a href="https://www.flickr.com/photos/fernand0/24617628099" title="Palabras"><figure><img src="https://c2.staticflickr.com/2/1719/24617628099_07a6021602_m.jpg" width="240"  alt="Palabras" style="float:left; margin:5px"></figure></a>
+<a href="https://www.flickr.com/photos/fernand0/24617628099" title="Palabras"><img src="https://c2.staticflickr.com/2/1719/24617628099_07a6021602_m.jpg" width="240"  alt="Palabras" style="float:left; margin:5px"></a>
 Transmitir conceptos de seguridad a gente ya preparada es más fácil (aunque hasta en eso tengo dudas). Pero cuando hablamos de usuarios finales tenemos realmente un problema.
 Yo suelo decir que los usuarios (y muchos profesionales) conocen sobre seguridad lo que escuchan/leen en las noticias y esto es bastante preocupante.
 
