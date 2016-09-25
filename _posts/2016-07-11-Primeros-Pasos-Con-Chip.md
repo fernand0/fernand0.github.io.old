@@ -10,9 +10,7 @@ tags: [making, C.H.I.P., soc, ordenador, pruebas, compras]
 
 
 
-<figure>
-<a href="https://www.instagram.com/p/BHjol17hGVx/" title="C.H.I.P."><img src="https://scontent.cdninstagram.com/t51.2885-15/e35/13597694_308352186166055_1513547827_n.jpg" width="240"  alt="C.H.I.P." style="float:left; margin:5px"></a>
-</figure>
+<figure> <a href="https://www.instagram.com/p/BHjol17hGVx/" title="C.H.I.P."><img src="https://scontent.cdninstagram.com/t51.2885-15/e35/13597694_308352186166055_1513547827_n.jpg" width="240"  alt="C.H.I.P." style="float:left; margin:5px"></a></figure>
 Durante el último año he apoyado algunos proyectos en Kickstarter. Por ser más concreto, el [MeARm](https://www.kickstarter.com/projects/phenoptix/mearm-pocket-sized-industrial-robotics-for-everybo) que lo tengo en dique seco, [PiJuice](https://www.kickstarter.com/projects/pijuice/pijuice-a-portable-project-platform-for-every-rasp) que sigue sufriendo retrasos, [Pine64](https://www.kickstarter.com/projects/pine64/pine-a64-first-15-64-bit-single-board-super-comput), que llegó hace algunas semanas pero todavía no he podido ponerlo a funcionar (comentaré, supongo, sobre ello más adelante). Además compré un par de [C.H.I.P.](https://getchip.com/) que no era en Kickstarter pero si ha seguido el modelo de compra anticipada y ya lo recibirás.
 Entre los inconvenientes de este modelo de compra es que el momento en que decides apostar por un proyecto no tiene nada que ver con el momento en el que recibes el resultado.
 
@@ -41,11 +39,11 @@ El escritorio:
 </div>
 
 
-No he tenido tiempo de mucho más (instalar el Python, el [https://github.com/yyuu/pyenv-installer](pyenv) y fantasear sobre hacer algunas pruebas con el MeArm (ahora sí).
+No he tenido tiempo de mucho más (instalar el Python, el [pyenv](https://github.com/yyuu/pyenv-installer) y fantasear sobre hacer algunas pruebas con el MeArm (ahora sí).
 
 En el apartado negativo: C.H.I.P. es un mal nombre. Buscar en internet algo que se llama chip es perder el tiempo y la paciencia (no ayuda tampoco, claro, que es un proyecto relativamente nuevo y con poca difusión). Otra pequeña pega es que cuando añades un disco USB no lo monta automáticamente (con el esritorio sí, pero no quiero usarlo con una pantalla).
 
-Entre sus características (copiadas y traducidas de [http://lifehacker.com/the-pocketc-h-i-p-is-the-handheld-linux-machine-ive-be-1783247338](The PocketC.H.I.P. Is the Handheld Linux Machine I've Been Looking For)
+Entre sus características (copiadas y traducidas de [The PocketC.H.I.P. Is the Handheld Linux Machine I've Been Looking For)[http://lifehacker.com/the-pocketc-h-i-p-is-the-handheld-linux-machine-ive-be-1783247338])
 
 * Procesador Cortex A8 R8 a 1Ghz con una GPU Mail-400
 * 512 Mb de RAM
