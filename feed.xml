@@ -15,6 +15,48 @@ layout: none
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				<content:encoded>
+			            <![CDATA[
+			                <!doctype html>
+			                <html lang="en" prefix="op: http://media.facebook.com/op#">
+			              <head>
+			                <meta charset="utf-8">
+			                <link rel="canonical" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
+			                <meta property="op:markup_version" content="v1.0">
+			              </head>
+			              <body>
+			                <article>
+			                  <header>
+			                      <h1>{{ post.title | xml_escape }}</h1>
+			                      {% if post.imagefeature %}
+			                      <figure>
+			                          <img src="{{ post.imagefeature }}" alt=" {{ post.title }} ">
+			                          <figcaption>{{ post.title }}</figcaption>
+			                      </figure>
+			                      {% else %}
+			                      <figure>
+			                          <img src="{{ site.baseurl | prepend: site.url }}/images/sitelogo_640x492.png" alt=" {{ post.title }} ">
+			                          <figcaption>{{ post.title }}</figcaption>
+			                      </figure>
+			                      {% endif %}
+			                      <time class="op-published" dateTime="{{ post.date | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
+			                      <time class="op-modified" dateTime="{{ post.modified | date: "%Y-%m-%d %H:%M:%S %Z" }}">{{ post.modified }}</time>
+			                  </header>
+			                  {% if post.instantfeedback %}
+			                    {{ post.content | replace: '<figure>', '<figure data-feedback="fb:likes">' }}
+			                  {% else %}
+			                    {{ post.content }}
+			                  {% endif %}
+			                    <footer>
+			                        <aside>fernand0</aside>
+			                        <small>fernand0</small>
+			                  </footer>
+			                </article>
+			              </body>
+			            </html>
+			        ]]>
+        </content:encoded>
+
 			</item>
 		{% endfor %}
 	</channel>
