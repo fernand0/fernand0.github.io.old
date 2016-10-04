@@ -4,6 +4,7 @@ title: "El copyright puede facilitar algunos fraudes"
 date: "Tue Aug 30 16:25:01 +0100 2016"
 category: copyright
 tags: copyright, propiedad, intelectual, volkswagen, miles, ojos, auditoría, vigilancia, pruebas, fallos
+imagefeature: https://c2.staticflickr.com/4/3189/2968897323_a296cc521b_m.jpg
 ---
 
 

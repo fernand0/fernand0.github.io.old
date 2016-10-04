@@ -4,6 +4,7 @@ title: "Algunas cuestiones que hay que tener en cuenta con el modelado de amenaz
 date: "Thu Sep 01 13:25:01 +0100 2016"
 category: seguridad
 tags: seguridad, amenazas, modelado, threat, modelling
+imagefeature: https://c2.staticflickr.com/4/3272/3039403706_a7983322d1_m.jpg
 ---
 
 
