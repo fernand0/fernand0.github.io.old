@@ -3,8 +3,8 @@ layout: post
 title: "Tarjetas, seguridad e incentivos"
 date: "Tue Feb 17 23:45:01 +0100 2015"
 category: seguridad
-imagefeature: https://farm4.staticflickr.com/3254/3042173272_7b1ba345e7_m.jpg
 tags: seguridad tarjetas chip banda magnética bancos banca EEUU Europa motivos
+imagefeature: https://farm4.staticflickr.com/3254/3042173272_7b1ba345e7_m.jpg
 ---
 
 

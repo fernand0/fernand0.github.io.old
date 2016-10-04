@@ -4,6 +4,7 @@ title: "Las optimizaciones del compilador y la seguridad"
 date: "Fri Jan 02 17:40:01 +0100 2015"
 category: seguridad
 tags: seguridad optimización compilador pruebas tests
+imagefeature: https://ppcdn.500px.org/66381679/d50c5e1f55d5e1b8bc2b9f2cc3a585ceb8c9415e/4.jpg
 ---
 
 Un compilador no sólo genera código ejecutable a partir de nuestros programas escritos en un lenguaje de alto nivel. Tradicionalmente los compiladores han tratado de mejorar el código desarrollado por los programadores para hacerlo más eficiente (sacando partido de las características de la arquitectura en la que se va a ejecutar, los mecanimos de los procesaores, sus recursos...).
