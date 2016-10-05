@@ -4,6 +4,7 @@ title: "¿En quién confías? El compilador"
 date: "Tue Sep 07 16:25:01 +0100 2016"
 category: seguridad
 tags: seguridad, confianza, trust, compilador, ataques, infección, troyanos
+imagefeature: https://drscdn.500px.org/photo/66381679/m=900_k=1_a=1/26576f61fae821c9aaa1b71f0019d930
 ---
 
 
