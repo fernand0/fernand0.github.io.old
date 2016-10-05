@@ -4,6 +4,7 @@ title: "Seguridad, usabilidad e incentivos"
 date: "Sun Jul 3 16:00:01 +0100 2016"
 category: seguridad
 tags: [seguridad, incentivos, economía, usabilidad, organizaciones]
+imagefeature: https://c2.staticflickr.com/6/5092/5478768691_e466ac0024_m.jpg
 ---
 
 
