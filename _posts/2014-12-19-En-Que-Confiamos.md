@@ -4,6 +4,7 @@ title: "¿En qué confíamos?"
 date: "Wed Dec 19 23:40:01 +0100 2014"
 category: seguridad
 tags: seguridad confianza trust 
+imagefeature: https://drscdn.500px.org/photo/66381679/m=900_k=1_a=1/26576f61fae821c9aaa1b71f0019d930
 ---
 
 En [Un compilador que infecta los binarios](http://mbpfernand0.wordpress.com/2009/09/01/un-compilador-que-infecta-los-binarios/) hablábamos de la confianza y recuperábamos una lectura clásica sobre el tema de en qué podemos confiar y cómo en algún momento cedemos el control.
