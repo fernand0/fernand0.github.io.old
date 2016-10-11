@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Algunos trucos para esconder programas maliciosos"
-date: "Wed Oct 11 21:25:01 +0100 2016"
+date: "Tue Oct 11 21:25:01 +0100 2016"
 category: seguridad
 tags: seguridad malware programas maliciosos ofuscación trucos cifrado
 imagefeature: https://scontent-fra3-1.cdninstagram.com/t51.2885-15/e35/13736867_876647612440788_744421225_n.jpg
