@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Estudio sobre reutilización de certificados en dispositivos"
-date: "Mon Oct 29 16:25:01 +0100 2016"
+date: "Sat Oct 29 16:25:01 +0100 2016"
 category: seguridad
 tags: seguridad certificados reutilización claves internet
 imagefeature: https://c2.staticflickr.com/8/7668/17079986718_16edc486a8_m.jpg
