@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Esta es la cuarta etapa de mi bitácora sobre software libre, programación, desarrollo, seguridad y similares. Es una continuación del miBarrapunto que en su día tuve en [BarraPunto][http://barrapunto.com/], que tuvo su continuación como ]bitácora de fernand0 en BarraPunto][http://barrapunto.com/~fernand0/journal/], después en [MbpFernand0 en WordPress][http://mbpfernand0.wordpress.com/] y ahora sigue aquí...
 
-### More Information
+### ¿Nos acompañan?
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact me/Contacto
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[fernand0@elmundoesimperfecto.com](mailto:fernand0@elmundoesimperfecto.com)
