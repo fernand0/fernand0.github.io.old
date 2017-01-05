@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Almacenamiento seguro de contraseñas"
-date: "Thu Jan 05 09:35:01 +0100 2016"
+date: "Thu Jan 05 09:35:01 +0100 2017"
 category: seguridad
 tags: seguridad contraseñas claves password hash criptográfico almacenamiento
 imagefeature: https://c2.staticflickr.com/6/5300/5543123497_f850371f0c_m.jpg
