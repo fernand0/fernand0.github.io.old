@@ -11,7 +11,6 @@ imagefeature: https://scontent-mad1-1.cdninstagram.com/t51.2885-15/e35/12976346_
 
 
 
-<a href="https://www.instagram.com/p/BEvzAYGQB5g/" title="Caja del Pine64"><img src="https://scontent-mad1-1.cdninstagram.com/t51.2885-15/e35/12976346_479978868864256_1204108015_n.jpg" width="240"  alt="Caja del Pine64" style="float:left; margin:5px"></a>
 Hace unos meses se anunció el proyecto de financiación de un nuevo ordenadorcito, el [Omega2: $5 Linux Computer with Wi-Fi, Made for IoT](https://www.kickstarter.com/projects/onion/omega2-5-iot-computer-with-wi-fi-powered-by-linux). Tengo que decir que lo vi y no le presté atención, así que no participé en el proyecto. Mi hermano lo hizo y además encargó un par de cacharritos para darme uno.
 
 Lo tengo en casa desde navidad pero hasta ahora no había tenido tiempo de escribir esta nota. En este caso lo probé y pude configurarlo con mucha rapidez. 
