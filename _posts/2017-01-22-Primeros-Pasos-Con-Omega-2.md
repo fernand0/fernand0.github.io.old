@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Primeros pasos con Omega2"
-date: "Sun Jan 22 16:50:01 +0100 2016"
+date: "Sun Jan 22 16:50:01 +0100 2017"
 category: making
 tags: [making, omega2, soc, ordenador, pruebas, compras]
 imagefeature: https://scontent-mad1-1.cdninstagram.com/t51.2885-15/e35/12976346_479978868864256_1204108015_n.jpg
