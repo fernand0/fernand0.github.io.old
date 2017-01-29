@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Publicar en Telebram las entradas de este sitio usando Python"
+title: "Publicar en Telegram las entradas de este sitio usando Python"
 date: "Sun Jan 29 18:05:01 +0100 2017"
 category: programación
 tags: programación desarrollo telegram rss redes sociales difusión python api
@@ -14,20 +14,18 @@ Siguiendo la línea de publicaciones anteriores, y tratando de alcanzar mayor di
 
 Pero primero tenemos que crear el bot. Siguiendo las instrucciones del [BotFather](https://core.telegram.org/bots#6-botfather). En este caso le pedimos el nuevo bot con:
 
-    `/newbot`
+    /newbot
 
 El botfather nos pide un nombre para nuestro bot, y un nombre de usuario (que deberá terminar en 'bot'). Como respuesta nos envía el 'token' que nos servirá para identificarnos y poder interactuar con él. A partir de allí nuestra misión es mandarle cosas al bot. 
 
 Yo he elegido hacer un programita en Python, utilizando [telepot](https://github.com/nickoala/telepot). Las instrucciones están en [telepot documentation](http://telepot.readthedocs.io/en/latest/) El código que se muestra allí es muy sencillo. 
 
-::
-
-    >>> import telepot
-    >>> bot = telepot.Bot('***** AQUÍ VA EL TOKEN *****')
+    import telepot
+    bot = telepot.Bot('***** AQUÍ VA EL TOKEN *****')
 
 Y mandar un mensaje sería algo así como:
 
-    >>> bot.sendMessage(999999999, 'Hola mundo')
+    bot.sendMessage(999999999, 'Hola mundo')
 
 En este caso '999999999' es el identificador del bot, se puede utilizar el nombre asignado anteriormente.
 
@@ -39,15 +37,15 @@ En este caso hay ciertos límites, no se pueden superar los 4096 caracteres en U
 
 Extraemos todas las etiquetas de nuestro texto:
 
-    `tags = [tag.name for tag in soup.find_all()]`
+    tags = [tag.name for tag in soup.find_all()]
 
 Y luego las recorremos:
 
-    `for tag in tags:`
+    for tag in tags:
 
 Eliminando las que no son válidas:
 
-    `   if tag not in validTags:`
+       if tag not in validTags:
 
 con `unwrap`. Previamente hemos tenido una consideración especial con las citas añadiéndoles delante y detrás unas comillas para que se refleje adecuadamente en el resultado final.
 
@@ -69,7 +67,7 @@ def cleanTags(soup):
 
 Para enviar el mensaje necesitamos crear un canal [FAQ channels](https://telegram.org/faq_channels) y dar de alta como administrador al bot, para que pueda escribir en el canal:
 
-    `bot.sendMessage('@'+channel, str(soup)[:4096], parse_mode='HTML')`
+    bot.sendMessage('@'+channel, str(soup)[:4096], parse_mode='HTML')
 
 El código está integrado en mi proyecto [rssToSocial](https://github.com/fernand0/scripts/blob/master/rssToSocial.py) que no es un código para sentirse especialmente orgulloso. Pero permite hacer estas publicaciones sin tener que hacerlo a mano.
 
