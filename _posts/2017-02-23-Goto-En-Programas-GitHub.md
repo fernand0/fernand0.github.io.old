@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seguridad de la gestión de acceso mediante SSH"
+title: "Estudio sobre el uso del goto en GitHub"
 date: "Thu Feb 23 16:10:01 +0100 2017"
 category: programación
 tags: [programación, desarrollo, goto, estructuras, control, github, demoscopía]
