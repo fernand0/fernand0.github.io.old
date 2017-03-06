@@ -4,14 +4,14 @@ title: "Identificación de programadores mediante su código"
 date: "Mon Mar 6 14:10:01 +0100 2017"
 category: programación
 tags: [programación, desarrollo, identificación, estructuras, desarrolladores, github, demoscopía]
-imagefeature: https://scontent.cdninstagram.com/t51.2885-19/10518119_1524678837755978_1902583585_a.jpg
+imagefeature: https://scontent.cdninstagram.com/t51.2885-15/e35/16906212_1091622597633834_3812352828949659648_n.jpg
 ---
 
 
 
 
 
-<a href="https://www.instagram.com/p/BQw3uZogQek/" title="Iguales pero diferentes"><img src="https://scontent.cdninstagram.com/t51.2885-19/10518119_1524678837755978_1902583585_a.jpg" width="240"  alt="Iguales pero diferentes" style="float:left; margin:5px"></a>
+<a href="https://www.instagram.com/p/BQw3uZogQek/" title="Iguales pero diferentes"><img src="https://scontent.cdninstagram.com/t51.2885-15/e35/16906212_1091622597633834_3812352828949659648_n.jpg" width="240"  alt="Iguales pero diferentes" style="float:left; margin:5px"></a>
 Seguimos con artículos de investigación que nos han llamado la atención. ¿Existe el estilo de programación? ¿Podemos identificar a alguien que desarrolla programas por su código? Parece que no sólo es cierto (siempre que tengamos código para comparar, claro) sino que también sería cierto con los binarios que se generan por el compilador a partir de ese código. Al menos, eso es lo que dicen en [[PDF] When Coding Style Survives Compilation: De-anonymizing Programmers from Executable Binaries](https://arxiv.org/abs/1512.08546).
 La preocupación de los autores se refiere a la privacidad y anonimato de los desarrolladores.
 
