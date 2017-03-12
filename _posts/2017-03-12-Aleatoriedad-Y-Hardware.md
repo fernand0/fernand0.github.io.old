@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Identificación de programadores mediante su código"
+title: "Diseño hardware para generar aleatoriedad"
 date: "Sun Mar 12 17:10:01 +0100 2017"
 category: seguridad
 tags: [seguridad, random, aleatorio, hardware, prng]
