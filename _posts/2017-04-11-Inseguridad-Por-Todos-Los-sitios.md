@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inseguridad en las emprsas de seguridad"
+title: "Inseguridad en las empresas de seguridad"
 date: "Tue Apr 11 08:00:01 +0100 2017"
 category: seguridad
 tags: [seguridad, conferencias, RSA, twitter, credenciales, inseguridad]
