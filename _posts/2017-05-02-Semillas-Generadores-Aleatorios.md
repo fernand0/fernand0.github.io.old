@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El direccionamiento del Internet de las cosas"
-date: "Thu May 02 16:00:01 +0100 2017"
+date: "Tue May 02 16:00:01 +0100 2017"
 category: aleatorio
 tags: [aleatorio, random, rng, generadores]
 imagefeature: https://c2.staticflickr.com/2/1255/1301539362_daa1107f13_m.jpg
