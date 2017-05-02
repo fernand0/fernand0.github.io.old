@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El direccionamiento del Internet de las cosas"
+title: "Pistas sobre la semilla para generar números aleatorios"
 date: "Tue May 02 16:00:01 +0100 2017"
 category: aleatorio
 tags: [aleatorio, random, rng, generadores]
