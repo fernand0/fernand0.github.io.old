@@ -16,6 +16,6 @@ Una pequeña provocación en [How to Fix Authentication: Email as a Password Man
 
 > We want to propose dead simple and secure approach to authentication. Your email account is a password manager out-of-box. The idea is to remove passwords from classic authentication scheme and stick to email only: every time user wants to log in / sign up your app sends a link with one time password to their email
 
-Según el autor tiene muchas ventajas que incluyen la simplicidad, no necesitar productos adicionales, gratis... 
+Según el autor tiene muchas ventajas que incluyen la simplicidad, no necesitar productos adicionales, gratuidad, ... 
 
 No se si puede ser válido para cualquier producto pero, desde luego, es cierto que podría resolvernos algunos problemas.
