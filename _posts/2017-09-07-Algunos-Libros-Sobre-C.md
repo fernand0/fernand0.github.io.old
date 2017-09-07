@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Código seguro para dispositivos médicos"
+title: "Libros sobre programación en C"
 date: "Thu Sep 07 16:04:01 +0100 2017"
 category: programación
 tags: [programación, libros, C, lenguajes]
