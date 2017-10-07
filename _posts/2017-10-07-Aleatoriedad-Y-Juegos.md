@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "¿Cómo son las preguntas de seguridad?"
-date: "Sat Oct 10 16:14:01 +0100 2017"
+title: "Aleatoriedad y juegos interesantes"
+date: "Sat Oct 07 16:14:01 +0100 2017"
 category: aleatoriedad
 tags: [aleatoriedad, juegos, estrategias, diseño, programación]
 imagefeature: https://c2.staticflickr.com/2/1255/1301539362_daa1107f13_m.jpg
