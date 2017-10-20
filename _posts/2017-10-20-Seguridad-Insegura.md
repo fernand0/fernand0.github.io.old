@@ -17,15 +17,21 @@ Se trata de un análisis de la información en las páginas web (y la configurac
 >  a) Autenticación
 > 
 >  a.1.- Certificado del servidor
+>
 >  a.2.- Certificados adicionales
+>
 >  a.3.- Cadena de certificación
 > 
 > b) Configuración
 > 
 >  b.1.- Protocolos
+>
 >  b.2.- Cifrados empleados
+>
 >  b.3.- Simulación de handshakes
+>
 >  b.4.- Detalles del protocolo
+>
 >  b.5.- Misceláneo
 
 La conclusión es que los resultados no son lo que deberían. Es cierto que todos sabemos que la web de un congreso o actividad no tiene por qué ser lo más importante y que su configuración no afecta a lo que los organizadores saben/piensan, o que tal vez la ha hecho alguien que no es de la organización, ... 
