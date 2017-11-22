@@ -9,7 +9,7 @@ imagefeature: https://c2.staticflickr.com/8/7115/7616202138_9c37a542b3_m.jpg
 
 
 <a href="https://www.flickr.com/photos/fernand0/7616202138" title="Líado"><img src="https://c2.staticflickr.com/8/7115/7616202138_9c37a542b3_m.jpg" width="240"  alt="Líado" style="float:left; margin:5px"></a>
-Creo que hace un montón de tiempo que no hablábamos de `Fuzzing`: esencialemente (aunque últimamente se ha ido sofisticando) enviar basura diversa a las interfaces de entrada de los programas para detectar problemas de seguridad.
+Creo que hace un montón de tiempo que no hablábamos de `Fuzzing`: esencialmente (aunque últimamente se ha ido sofisticando) enviar basura diversa a las interfaces de entrada de los programas para detectar problemas de seguridad.
 
 En [Announcing OSS-Fuzz: Continuous Fuzzing for Open Source Software](https://security.googleblog.com/2016/12/announcing-oss-fuzz-continuous-fuzzing.html) una iniciativa de Google para poner el sistema de fuzzing como servicio a disposición de desarrolladores de software libre. Ya ha servido para encontrar fallos en algunos proyectos:
 
