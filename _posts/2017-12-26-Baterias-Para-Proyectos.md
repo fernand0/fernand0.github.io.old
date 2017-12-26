@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Una introducción a las baterías"
-date: "Mon Dec 26 09:20:01 +0100 2017"
+date: "Tue Dec 26 09:20:01 +0100 2017"
 category: making
 tags: [making, proyectos, pilas, baterías, consejos, ideas]
 imagefeature: https://avecesunafoto.files.wordpress.com/2017/12/191696.jpg
