@@ -2,7 +2,7 @@
 layout: post
 title: "Sistemas masivos de ficheros y control de versiones"
 date: "Mon Feb 05 15:10:01 +0100 2018"
-category: seguridad
+category: sistemas
 tags: [gvfs, git, virtual, filesystem, sistema, ficheros, versiones]
 imagefeature: https://assets-cdn.github.com/images/modules/logos_page/Octocat.png
 ---
