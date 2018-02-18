@@ -38,7 +38,7 @@ Como prueba de concepto podemos echar un vistazo a [err-forward](https://github.
 Para su desarrollo se han utilizado:
 
 * el mecanismo de **creación de plugins** de Errbot
-* el mecanismo de **programación de actividades** ([Scheduling](http://errbot.io/en/latest/user_guide/plugin_development/scheduling.html)`).
+* el mecanismo de **programación de actividades** ([Scheduling](http://errbot.io/en/latest/user_guide/plugin_development/scheduling.html)).
 * un **canal común** donde escribir y leer las instrucciones.
 
 Todos conocemos sistemas de mando y control basados en IRC, correo electrónico, Twitter, ...
@@ -175,7 +175,7 @@ En ambos casos guarda como texto la respuesta para devolverla convenientemente.
        host=msgJ['userHost'], frm = msgJ['frm'], args = txtR)
 ```
 
-En algunos casos las instrucciones utilizan plantillas (`[templating](http://errbot.io/en/latest/user_guide/plugin_development/messaging.html#templating)`) y, por ello, el intérprete necesita tener en cuenta esto:
+En algunos casos las instrucciones utilizan plantillas ([templating](http://errbot.io/en/latest/user_guide/plugin_development/messaging.html#templating)) y, por ello, el intérprete necesita tener en cuenta esto:
 
 ```python
     txtR = txtR + tenv().get_template(method._err_command_template+'.md').render(reply)
@@ -210,7 +210,7 @@ Para después borrarla:
     self.deleteSlack(chan, msg['ts'])
 ```
 
-Todavía no hemos hablado del método para redirijir mensajes, que se llama `forwardCmd` y que funciona como sigue: 
+Todavía no hemos hablado del método para redirigir mensajes, que se llama `forwardCmd` y que funciona como sigue: 
 Si la instrucción tiene parámetros, los separa con
 
 ```python
@@ -245,4 +245,4 @@ Definiremos un canal en Slack y configuramos los bots con:
 * Se ha conseguido el objetivo de tener varios bots (dos) que son capaces de ejecutar distintas instrucciones y comunicarse entre ellos.
 * Hemos aprendido algunas de las *interioridades* de Errbot que permiten interpretar las instrucciones y ejecutarlas, aplicar plantillas, etc.
 
-Llevo probando este mecanismo durante unas semanas con un par de bots (como decía arriba, uno está escuchando en Telegram y el otro en un canal de IRC) y funciona de manera bastante robusta para las instrucciones que yo suelo utilizar (se pueden ver en mi GitHub ([GitHub de fernand0](https://github.com/fernand0/)), todos mis módulos empiezan con `err-`.
+Llevo probando este mecanismo durante unas semanas con un par de bots (como decía arriba, uno está escuchando en Telegram y el otro en un canal de IRC) y funciona de manera bastante robusta para las instrucciones que yo suelo utilizar: se pueden ver en mi GitHub ([GitHub de fernand0](https://github.com/fernand0/)), todos mis módulos empiezan con `err-`.
