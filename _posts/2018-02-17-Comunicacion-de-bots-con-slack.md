@@ -70,7 +70,7 @@ La leemos utilizando el módulo `configparser`, creamos el cliente y publicamos 
     self._check_config('channel') 
 ```
 
-Además el bot almacena el usuario del sistema opoerativo y el nombre de la máquina, que se usará para enviar las respuestas cuando proceda. 
+Además el bot almacena el usuario del sistema oporativo y el nombre de la máquina, que se usará para enviar las respuestas cuando proceda. 
 El mensaje de saludo incluye la dirección IP:
 
 ```python
@@ -84,7 +84,7 @@ self.publishSlack(typ = 'Msg', args = 'Hello! from %s' % self.getMyIP())
 
 Aquí se ha utilizado el método `publishSlack` que sirve para escribir en el canal (lo comentaremos luego).
 
-Después se incializa el *poller* que lee periódicamente el canal para ver si hay algo que el bot pueda hacer:
+Después se inicializa el *poller* que lee periódicamente el canal para ver si hay algo que el bot pueda hacer:
 
 ```python
     self.start_poller(60, self.readSlack)
