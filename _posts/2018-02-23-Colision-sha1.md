@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Comunicación de bots usando Slack"
-date: "Sat Feb 17 16:18:01 +0100 2018"
-category: chatbot
-tags: [chatbot, errbot, python, proyectos, making, bot, coordinación, slack]
+title: "Colisiones en el sistema de resumen SHA1"
+date: "Sat Feb 23 15:18:01 +0100 2018"
+category: seguridad
+tags: [seguridad, colisiones, hash, SHA1, firma, resumen]
 imagefeature: https://3.bp.blogspot.com/-Ca6n5XsDQU4/WK6ljCSebeI/AAAAAAAAAa4/MXeyy0z13yIqp9DEWVLiqjJ_xSP2u7YOgCLcB/s640/Collision-illustrated.png
 ---
 
