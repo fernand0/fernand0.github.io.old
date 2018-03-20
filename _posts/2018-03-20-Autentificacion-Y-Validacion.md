@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Autentificación, validación e identificación de los usuarios. Cada vez un poco más allá."
-date: "Tue Mar 21 19:18:01 +0100 2018"
+date: "Tue Mar 20 19:18:01 +0100 2018"
 category: seguridad
 tags: [seguridad, autentificación, identificación, comportamiento, perfilado]
 imagefeature: https://c1.staticflickr.com/3/2215/1535752807_4181367fa9_m.jpg
