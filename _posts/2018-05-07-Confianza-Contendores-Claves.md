@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Secretos compartidos. Cuidado con la confianza."
+title: Secretos compartidos. Cuidado con la confianza.
 date: "Mon May 07 16:02:01 +0100 2018"
 category: seguridad
 tags: [seguridad, confianza, secretos, contenedores, claves, estudios]
