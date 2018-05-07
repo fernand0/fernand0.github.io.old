@@ -4,7 +4,7 @@ title: "Phishing y políticos de alto nivel"
 date: "Tue Apr 24 16:02:01 +0100 2018"
 category: seguridad
 tags: [seguridad, phishing, políticos, engaño, trampa]
-imagefeature:https://c2.staticflickr.com/4/3533/3705440910_c89d9f48d0_m.jpg
+imagefeature: https://c2.staticflickr.com/4/3533/3705440910_c89d9f48d0_m.jpg
 ---
 
 

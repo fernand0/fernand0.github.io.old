@@ -4,7 +4,7 @@ title: "Secretos compartidos. Cuidado con la confianza."
 date: "Mon May 07 16:02:01 +0100 2018"
 category: seguridad
 tags: [seguridad, confianza, secretos, contenedores, claves, estudios]
-imagefeature:https://c1.staticflickr.com/5/4338/37251899012_eeea0637df_m.jpg
+imagefeature: https://c1.staticflickr.com/5/4338/37251899012_eeea0637df_m.jpg
 ---
 
 
