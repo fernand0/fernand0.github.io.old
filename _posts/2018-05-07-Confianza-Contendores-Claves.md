@@ -8,6 +8,7 @@ imagefeature:https://c1.staticflickr.com/5/4338/37251899012_eeea0637df_m.jpg
 ---
 
 
+
 <a href="https://www.flickr.com/photos/fernand0/37251899012" title="Oculto"><img src="https://c1.staticflickr.com/5/4338/37251899012_eeea0637df_m.jpg" width="240"  alt="Oculto" style="float:left; margin:5px"></a>
 Lo miremos como  lo miremos, somos gente confiada. Queremos compartir y lo hacemos con pocas precauciones. O esa es la conclusión habitual, que ya no nos sorprende mucho. En [Keys, tokens and too much trust found in container images](https://www.helpnetsecurity.com/2017/06/16/trust-container-images/) hablaban del tema relacinado con la compartición de contenedores. 
 
