@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cuatro ideas para asegurar la autentificación"
+title: "Algunos aspectos prácticos de la autentificación de dos factores"
 date: "Mon Sep 03 16:02:01 +0100 2018"
 category: seguridad
 tags: [seguridad, autentificación, autenticación, 2FA, dos, factores]
