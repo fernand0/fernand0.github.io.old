@@ -4,11 +4,11 @@ title: "Cuatro ideas para asegurar la autentificación"
 date: "Mon Sep 03 16:02:01 +0100 2018"
 category: seguridad
 tags: [seguridad, autentificación, autenticación, 2FA, dos, factores]
-imagefeature: https://c1.staticflickr.com/3/2915/33534771015_707d3b9fb9_m.jpg
+imagefeature: https://c1.staticflickr.com/3/2899/33253324191_7174667d5b_m.jpg
 ---
 
 
-<a href="https://www.flickr.com/photos/fernand0/33534771015" title="Puerta"><img src="https://c1.staticflickr.com/3/2915/33534771015_707d3b9fb9_m.jpg" width="240"  alt="Puerta" style="float:left; margin:5px"></a>
+<a href="https://www.flickr.com/photos/fernand0/33253324191" title=""><img src="https://c1.staticflickr.com/3/2899/33253324191_7174667d5b_m.jpg" width="240"  alt="Puerta" style="float:left; margin:5px"></a>
 Llevamos una temporada escuchando que la autentificación con dos factores es la solución para los problemas de las malas contraseñas que eligen los usuarios y otros problemas de la autentificación mediante contraseña. 
 La autentificación de dos factores se vió puesta en entredicho este verano por la inseguridad de los SMS [Reddit hack highlights vulnerability of two-factor authentication](https://www.computing.co.uk/ctg/news/3036969/reddit-hack-highlights-vulnerability-of-two-factor-authentication).
 No obstante, podemos ver en [Inside Two-Factor Authentication Apps](https://hackaday.com/2017/10/16/inside-two-factor-authentication-apps/) proporcionan algunas pistas interesantes y una introducción al tema que podemos leer, con ejemplos de código en Python. 
