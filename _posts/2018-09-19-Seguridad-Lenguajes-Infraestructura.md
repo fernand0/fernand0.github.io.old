@@ -29,9 +29,13 @@ Un resumen de los descubrimientos:
 - Los nombres de constantes de PHP permitirían ejecutar instrucciones de manera remota.
 
 > ➣ Python contains undocumented methods and local environment variables that can be used for OS command execution.
+
 > ➣ Perl contains a typemaps function that can execute code like  eval().
+
 > ➣ NodeJS outputs error messages that can disclose partial file contents.
+
 > ➣ JRuby loads and executes remote code on a function not designed for remote code execution.
+
 > ➣ PHP constant's names can be used to perform remote command execution. 
 
 El artículo es de hace un par de años así que estos fallos se habrán solucionado. Pero da miedo.
