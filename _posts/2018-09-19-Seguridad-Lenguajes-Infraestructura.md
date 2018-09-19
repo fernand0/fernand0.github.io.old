@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vulnerabilidades en los lenguajes que nos permiten desarrollar programas"
-date: "Mon Sep 19 16:02:01 +0100 2018"
+date: "Wed Sep 19 16:02:01 +0100 2018"
 category: seguridad
 tags: [seguridad, vulnerabilidades, fuzzing, fallos, bugs, lenguajes, intérpretes]
 imagefeature: https://c2.staticflickr.com/6/5015/5494861863_8a8743b4c9_m.jpg
