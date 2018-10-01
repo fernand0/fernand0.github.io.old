@@ -4,7 +4,7 @@ title: "Cadenas de formato en Windows"
 date: "Mon Oct 1 16:02:01 +0100 2018"
 category: seguridad
 tags: [seguridad, vulnerabilidades, cadenas, formato, c, windows]
-imagefeature:https://c1.staticflickr.com/9/8242/8647192601_77d9b533f8_m.jpg
+imagefeature: https://c1.staticflickr.com/9/8242/8647192601_77d9b533f8_m.jpg
 ---
 
 
