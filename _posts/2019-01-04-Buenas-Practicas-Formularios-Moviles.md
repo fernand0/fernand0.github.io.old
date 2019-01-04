@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Buenas prácticas en el diseño de formularios para el teléfono móvil"
-date: "Fri Jan 04 09:15:01 +0100 2018"
+date: "Fri Jan 04 09:15:01 +0100 2019"
 category: ux
 tags: [ux, usabilidad, ergonomía, móvil, entrada, formularios]
 imagefeature: https://c1.staticflickr.com/5/4772/38940213960_dd0f010113_m.jpg
