@@ -21,4 +21,6 @@ Estamos hablando de empresas como Adobe, Alibaba, Bank of America, NVIDIA, Lenov
 
 Una vez que se tiene esa información, una empresa puede medirse frente a otras y así determinar de qué debería preocuparse primero. Se hace con 116 actividades de seguridad agrupadas en doce prácticas dentro de cuatro dominios: gobernanza, inteligencia, desarrollo y despliegue (una de ellas, por cierto, la formación, dentro del dominio de la gobernanza).
 
+> Using the data we gather, we score the organization’s existing efforts in 116 specific software security activities organized into twelve practices. We can directly compare a particular firm’s measurement to the rest of the BSIMM population and draw important conclusions about software security maturity in the firm.
+
 Muy interesante y ¡feliz aniversario!
