@@ -29,5 +29,7 @@ Algunos datos, el 74 por ciento de la gente ignora un mensaje de seguridad que a
 > people pay the most attention to security messages when they pop up in lower dual task times such as:
 >
 >    After watching a video
+>
 >    Waiting for a page to load
+>
 >    After interacting with a website
