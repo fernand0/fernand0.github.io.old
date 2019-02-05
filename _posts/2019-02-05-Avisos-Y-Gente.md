@@ -20,7 +20,7 @@ Según el estudio que se comenta, uno de los problemas fundamentales es que los 
 
 > ... finds the status quo of warning messages appearing haphazardly—while people are typing, watching a video, uploading files, etc.—results in up to 90 percent of users disregarding them.
 
-Algunos datos, el 74 por ciento de la gente ignora un mensaje de seguridad que aparece cuando estamos cerrando una ventana, y un 87 por ciento no presta atención a los mensajes mientras vemos un vídeo.
+Algunos datos, el 74 por ciento de la gente ignora un mensaje de seguridad que aparece cuando estamos cerrando una ventana, y un 79 por ciento no presta atención a los mensajes mientras vemos un vídeo.
 
 > For example, 74 percent of people in the study ignored security messages that popped up while they were on the way to close a web page window. Another 79 percent ignored the messages if they were watching a video. And a whopping 87 percent disregarded the messages while they were transferring information, in this case, a confirmation code.
 
