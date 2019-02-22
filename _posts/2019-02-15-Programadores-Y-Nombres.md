@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Falsedades que los programadores creen sobre los nombres"
-date: "Fri Feb 14 15:05:01 +0100 2019"
+date: "Fri Feb 15 15:05:01 +0100 2019"
 category: desarrollo
 tags: [desarrollo, programación, nombres, programadores]
 imagefeature: https://c1.staticflickr.com/1/207/523829842_de2311f514_m.jpg
