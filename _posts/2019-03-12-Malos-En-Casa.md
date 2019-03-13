@@ -3,7 +3,7 @@ layout: post
 title: "Un malote en tu bañera de hidromasaje"
 date: "Tue Mar 12 15:05:01 +0100 2019"
 category: seguridad
-tags: [seguridad, doméstica, hidromasaje, app, internet, casa]
+tags: [seguridad, doméstica, bañera, hidromasaje, app, internet, casa]
 imagefeature: https://farm5.staticflickr.com/4242/35793305495_e45e53e36f_m.jpg
 ---
 
