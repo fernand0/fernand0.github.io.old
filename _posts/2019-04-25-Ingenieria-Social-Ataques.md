@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "La seguridad: interacciones inseguras entre sistemas"
+title: "Interacciones inseguras entre sistemas de ayuda y otros"
 date: "Thu Apr 24 15:05:01 +0100 2019"
 category: seguridad
 tags: [seguridad, interacción, sistemas, ayuda, issues, slack, gitlab, yammer]
