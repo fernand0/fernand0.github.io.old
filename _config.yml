@@ -61,6 +61,10 @@ baseurl: ""
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
+
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
@@ -93,5 +97,3 @@ exclude:
     - LICENSE
     - README.md
 
-tag_page_layout: tag_page
-tag_page_dir: tag
