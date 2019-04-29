@@ -13,7 +13,7 @@ layout: default
   <div class="date">
     Escrito el {{ page.date | date: "%Y-%m-%d" }} <br />
     Categorías: {{ page.category }} <br />
-    Tags: {% for tag in page.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a> {% if forloop.last != true %} {% endif %} {% endfor %}
+    Tags: {% for tag in page.tags %} <a href="/tag/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a> {% if forloop.last != true %} {% endif %} {% endfor %}
     <br />
     <br />
     {% include share-page.html %} 
