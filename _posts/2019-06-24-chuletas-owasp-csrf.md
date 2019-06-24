@@ -8,7 +8,7 @@ imagefeature: https://live.staticflickr.com/2017/2446156740_3fa2f0f5b6_b.jpg
 ---
 
 
-<a href="https://www.flickr.com/photos/fernand0/2446156740" title="Cruce"><img src=""https://live.staticflickr.com/2017/2446156740_3fa2f0f5b6_b.jpg width="240"  alt="Cruce" style="float:left; margin:5px"></a> 
+<a href="https://www.flickr.com/photos/fernand0/2446156740" title="Cruce"><img src="https://live.staticflickr.com/2017/2446156740_3fa2f0f5b6_b.jpg" width="240"  alt="Cruce" style="float:left; margin:5px"></a> 
 Las 'chuletas' de OWASP (*OWASP cheatsheets*) son una buena fuente de información para refrescar nuestras ideas o para abordar algún tema que no conocemos en profundidad. En esta ocasión traemos la de [Cross Site Request Forgery Prevention Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.md), que ha sido recientemente actualizada y revisada.
 
 Primero recordar que el 'Cross Site Request Forgery (CSRF)' es un problema que se basa en la realización de alguna acción en un sitio web en el que estamos autenticados mediante un enlace en otra parte (un sitio web malicioso, mensaje, correo, ...). Es posible cuando el sitio no valida correctamente que la petición ha sido realizada de la manera adecuada (esto es, que el enlace en el que pinchamos está en un sitio adecuado) y puede provocarnos algún dolor de cabeza:
