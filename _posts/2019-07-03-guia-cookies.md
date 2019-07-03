@@ -15,10 +15,11 @@ Se trata de [Ultimate Guide to HTTP Cookies](https://blog.webf.zone/ultimate-gui
 Primero, recordar que las cookies se suelen utilizar principalmente para la gestión de sesiones (autenticación), seguimiento de usuarios y personalización.
 
 > There are three main reasons why we need cookies:
-Authentication (Session Management)
 >
 >    Authentication (session management)
+>
 >    User tracking
+>
 >    Personalization (theme, language selection, etc.)
 
 Conviene recordar que la web funciona sobre el protocolo HTTP (Hypertext Transfer Protocol), que a su vez se ejecuta sobre el protocolo TCP (Transmission Control Protocol) y que se trata de un protocolo sin estado. Esto es, hacemos una petición, el servidor web la responde y 'se olvida' de nosotros.
