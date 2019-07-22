@@ -8,7 +8,7 @@ imagefeature: https://live.staticflickr.com/176/399144526_e289577520_b.jpg
 ---
 
 
-<a href="https://www.flickr.com/photos/fernand0/399144526" title="Seguridad en software""><img src="https://combo.staticflickr.com/pw/images/cc_icon_attribution_small.gif" width="240"  alt="Seguridad en software"" style="float:left; margin:5px"></a>
+<a href="https://www.flickr.com/photos/fernand0/399144526" title="Seguridad en software"><img src="https://live.staticflickr.com/176/399144526_e289577520_b.jpg" width="240"  alt="Seguridad en software" style="float:left; margin:5px"></a>
 Nos pongamos como nos pongamos, hay lenguajes de programación que nos facilitan más que otros el desarrollo de código seguro. Eso no significa que podamos utilizarlos y quedarnos tranquilos, pero si podemos elegir deberíamos tenerlo en cuenta.
 
 En [The 3 least secure programming languages](https://www.techrepublic.com/article/the-3-least-secure-programming-languages/) nos contaban sobre un estudio que trataba de analizar este tema, con un estudio que analiza código disponible en diversos repositorios, sistemas de gestión de incidencias y los informes de vulnerabilidades de una de las bases de datos que se utilizan para estas cosas.
