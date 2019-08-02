@@ -31,14 +31,23 @@ De los que enviaron soluciones con almacenamiento seguro, la mayoría utilizaron
 > Of the secure password storage systems developers chose to implement for this study, only the last two, PBKDF2 and Bcrypt, are considered secure.
 
 > 8 - Base64
+>
 > 10 - MD5
+>
 > 1 - SHA-1
+>
 > 3 - 3DES
+>
 > 3 - AES
+>
 > 5 - SHA-256
+>
 > 1 - HMAC/SHA1
+>
 > 5 - PBKDF2
+>
 > 7 - Bcrypt
+>
 
 Se ven claramente dos grupos importantes: los que utilizan cualquier método que remotamente puede considerarse seguro (Base64 y MD5) y los que hacen su trabajo y se preocupan por elegir algunos adecuados (PBKDF2, Bcrypt). En medio, algunas elecciones no muy buenas.
 
