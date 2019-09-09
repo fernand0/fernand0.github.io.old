@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Sobre el tamaño y el desarrollo de Windows 10"
-date: "Thu Sep 05 15:05:01 +0100 2019"
-category: windows
-tags: [windows, microsoft, tamaño, código, interioridades]
+title: "Concurrencia en Python"
+date: "Thu Sep 09 16:05:01 +0100 2019"
+category: desarrollo
+tags: [desarrollo, programación, concurrencia, python]
 imagefeature: https://live.staticflickr.com/52/415859306_e77c449fd3_m.jpg
 ---
 
