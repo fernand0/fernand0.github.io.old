@@ -8,7 +8,7 @@ imagefeature: https://live.staticflickr.com/52/415859306_e77c449fd3_m.jpg
 ---
 
 <a href="https://www.flickr.com/photos/fernand0/415859306" title="Hilos"><img src="https://live.staticflickr.com/52/415859306_e77c449fd3_m.jpg" width="240"  alt="Hilos" style="float:left; margin:5px"></a>
-Por ahora Python no es el lenguaje de programción con mejores características de concurrencia (fundamentalmente, el intérprete no es lo que se llama `thread safe' así que hay que imponer restricciones para que las cosas funcionen  [Global Interpreter Lock](https://wiki.python.org/moin/GlobalInterpreterLock).
+Por ahora Python no es el lenguaje de programación con mejores características de concurrencia (fundamentalmente, el intérprete no es lo que se llama `thread safe' así que hay que imponer restricciones para que las cosas funcionen  [Global Interpreter Lock](https://wiki.python.org/moin/GlobalInterpreterLock)).
 Esto no significa que no haya primitivas para gestionar la concurrencia y que, en algunos casos, podamos obtener ventajas de la concurrencia.
 
 Por eso (y porque la concurrencia es un tema que me gusta mucho) traigo aquí [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading/) que me pareció una buena introducción al tema, didáctica y con ejemplos, sin olvidar el tema de las condiciones de carrera.
