@@ -17,3 +17,5 @@ Sobre el tamaño, como dice el titular, estamos hablando de que
 > Según explica Rietschin, el árbol completo con todo el código fuente, el código de prueba y todo lo que constituye el "código fuente de Windows" tiene más de medio terabyte de tamaño, en más de 4 millones de archivos
 
 Muy interesante y para guardar como referencia.
+
+**Actualización (2019-09-18):** En [Which programming language is used for making Windows 10?](https://www.quora.com/Which-programming-language-is-used-for-making-Windows-10) podíamos leer algo más de información relacionada con el tema.
