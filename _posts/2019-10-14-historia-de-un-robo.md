@@ -11,3 +11,5 @@ imagefeature: https://live.staticflickr.com/8317/7894543082_2074cfdf1d_m.jpg
 En [strong_password v0.0.7 rubygem hijacked](https://withatwist.dev/strong-password-rubygem-hijacked.html) Tute Costa nos cuenta cómo descubrió que alguien había robado una cuenta y había cambiado una de las gemas (*gems*) que utiliza su aplicación.
 
 Aparentemente, le habían robado las credenciales al autor a través de uno de esos robos habituales en diversos servicios y la mala práctica de reutilizar las contraseñas entre distintos servicios. Sin doble factor de autentificación.
+
+Además, el mensaje podría ser que estas cosas pasan hasta en las mejores familias. O algo así.
