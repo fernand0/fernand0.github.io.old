@@ -26,4 +26,4 @@ Para mejorar la situación la propuesta tampoco es muy complicada: en lugar de u
 
 > One way to improve the situation would be to use a key, a random string of bits that you combine with values before hashing. An attacker not knowing your secret key value could not do something as simple as what was described above.
 
-En temas de seguridad y privacidad, siempre hay que ir un poco más allá.
+En temas de seguridad y privacidad siempre hay que ir un poco más allá.
