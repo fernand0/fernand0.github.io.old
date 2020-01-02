@@ -58,8 +58,12 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: kramdown
-highlighter: rouge
+kramdown:
+        input: GFM
+        syntax_highlighter: rouge
+        syntax_highlighter_opts: rouge
+            css_class: 'highlight'
+
 permalink: /:title/
 tag_page_layout: tag_page
 tag_page_dir: tag
@@ -84,8 +88,8 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-plugins:
-   #- jekyll/sitemap # Create a sitemap using the official Jekyll sitemap gem
+gems:
+  - jekyll/sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll/tagging
   - jekyll-paginate
@@ -96,4 +100,5 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - CNAME
 
