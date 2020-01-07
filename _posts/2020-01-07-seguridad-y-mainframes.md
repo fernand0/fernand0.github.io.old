@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Seguridad en entornos corporativos con sistemas tradicionales"
-date: "Tue Jan 07 15:05:01 +0100 2019"
+date: "Tue Jan 07 15:05:01 +0100 2020"
 category: seguridad
 tags: [seguridad, mainframes, empresas]
 imagefeature: https://live.staticflickr.com/4034/4580728577_7bed8133b3_m.jpg
