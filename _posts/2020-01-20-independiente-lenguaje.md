@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Sobre aprender a programar y la frase 'independiente del lenguaje'"
-date: "Tue Jan 20 15:05:01 +0100 2020"
+date: "Mon Jan 20 15:05:01 +0100 2020"
 category: desarrollo
 tags: [programación, aprendizaje, cs1, informática, desarrollo]
 imagefeature: https://live.staticflickr.com/25/43497914_abb5dce40e_m.jpg
