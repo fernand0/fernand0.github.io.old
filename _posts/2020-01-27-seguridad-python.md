@@ -23,7 +23,7 @@ Y, claro, aunque hablemos de lenguajes seguros, algunas cosas malas siguen siend
 * Paquetes maliciosos o el lugar desde donde se importan
 * Ficheros temporales
 * Problemas al cargar ficheros YAML
-* Datos serializadox
+* Datos serializado
 * Problemas del entorno Python por no estar actualizado
 * Problemas por no tener actualizadas las dependencias
 
