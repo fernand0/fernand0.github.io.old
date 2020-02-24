@@ -8,7 +8,6 @@ imagefeature: http://live.staticflickr.com/3490/3240520691_9fbe8bc55c.jpg
 ---
 
 <a href="https://www.flickr.com/photos/fernand0/3240520691/" title="Anuncio de baja tecnología"><img src="http://live.staticflickr.com/3490/3240520691_9fbe8bc55c.jpg" alt="Anuncio de baja tecnología" width="240" style="float:left; margin:5px"></a>
-<a href="https://www.flickr.com/photos/fernand0/2137644411/" title="¡Oh! ¡Qué bonito! "><img src="http://live.staticflickr.com/2348/2137644411_23bae9346f.jpg" alt="¡Oh! ¡Qué bonito! " width="240" style="float:left; margin:5px"></a>
 En [How Facebook Avoids Ad Blockers](https://www.dylanpaulus.com/2019-11-24-how-fb-avoids-adblockers/) un poco de web y cómo la conocida empresa evita que bloqueemos sus anuncios.
 
 Hoy en día es bastante habitual que naveguemos con algún sistema para evitar ver anuncios. En el caso de Facebook, se utilizan algunos trucos para que no tengamos otro remedio que verlos.
@@ -19,11 +18,13 @@ Por ejemplo, la etiqueta de anuncio está separada carácter a carácter:
 
 No sólo eso, sino que la 'esconde' en los atributos de las etiquetas:
 
-> <span>
->  <span data-content="S"></span>
->  <span data-content="p"></span>
->  <span data-content="o"></span>
-> ...
+```
+<span>
+  <span data-content="S"></span>
+  <span data-content="p"></span>
+  <span data-content="o"></span>
+ ...
+```
 
 Y también utiliza otras técnicas de ofuscación, insertando textos intermedios y otras 'diabluras', como caracteres invisibles:
 
