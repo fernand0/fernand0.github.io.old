@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Números aleatorios desde el espacio"
+title: "Estructura interna de Git cuando se usan sus instrucciones"
 date: "Fri Apr 03 15:02:01 +0100 2020"
 category: desarrollo
 tags: [desarrollo, git, grafo, interioridades, hash, estructura]
