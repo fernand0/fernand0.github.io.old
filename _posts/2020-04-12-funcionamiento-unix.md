@@ -10,7 +10,7 @@ imagefeature: http://live.staticflickr.com/5059/5543104159_98fb5c9008.jpg
 **2020-04-14: Actualización.** El enlace estaba mal, corregido.
 
 <a href="https://www.flickr.com/photos/fernand0/5543104159/" title="Centro de Exposiciones del Centro de Conocimiento sobre se… "><img src="http://live.staticflickr.com/5059/5543104159_98fb5c9008.jpg" alt="Centro de Exposiciones del Centro de Conocimiento sobre servicios públicos electrónicos. Pantalla simulación perforadora de fichas. " width="240" style="float:left; margin:5px"></a>
-Otro artículo sobre el funcionamiento de herramientas que utilizamos. En [How Unix Works: Become a Better Software Engineer](How Unix Works: Become a Better Software Engineer) un resumen sobre el funcionamiento del sistema operativo Unix.
+Otro artículo sobre el funcionamiento de herramientas que utilizamos. En [How Unix Works: Become a Better Software Engineer](https://neilkakkar.com/unix.html) un resumen sobre el funcionamiento del sistema operativo Unix.
 
 Empieza con la filosofía: 
 
