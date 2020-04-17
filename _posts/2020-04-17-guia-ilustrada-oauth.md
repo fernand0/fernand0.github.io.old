@@ -19,6 +19,6 @@ Además de liberarnos de tener que poner nuestra clave y contraseña en esos sit
 
 En esa entrada se hace una muestra gráfica de cómo funciona el mecanismo y me pareció interesante para compartirla aquí.
 
-OAuth está diseñado para la autorización, esto es, dar acceso a datas y características. En algunos casos puede ser necesario, además, proporcionar información sobre el usuario (identidad). En esto entra en juego OpenID, donde se puede compartir esta información. Y también hay una demostración gráfica de las capacidades y el funcionamiento.
+OAuth está diseñado para la autorización, esto es, dar acceso a datos y características. En algunos casos puede ser necesario, además, proporcionar información sobre el usuario (identidad). En esto entra en juego OpenID, donde se puede compartir esta información. Y también hay una demostración gráfica de las capacidades y el funcionamiento.
 
-Intersante.
+Interesante.
