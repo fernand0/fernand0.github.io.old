@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Make y makeiles siguen siendo herramientas de actualidad"
+title: "Make y makefiles siguen siendo herramientas de actualidad"
 date: "Sun Jul 19 15:02:01 +0100 2020"
 category: desarrollo
 tags: [desarrollo, programación, make, makefile]
