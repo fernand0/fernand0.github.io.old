@@ -23,6 +23,6 @@ Y el 'machine learning' es una buena herramienta de ayuda a la decisión. En est
 
 En lugar de decidir 'a mano' o por algún méitodo más costoso, este sistema permite elegir un método suficientemente bueno.
 
-> Since having to come up with manual rules for when to use which compression would be very complex and time costly, this was a great case for machine learning. It’s very scalable, as when a new compression algorithm shows up on the market, shrynk will be able to benchmark that one and no new rules have to be figured out.
+> Since having to come up with manual rules for when to use which compression would be very complex and time costly, this was a great case for machine learning. It’s very scalable, as when a new compression algorithm shows up on the market, shrynk will be able to benchmark that one and no new rules have to be figured out.
 
 Curioso.
