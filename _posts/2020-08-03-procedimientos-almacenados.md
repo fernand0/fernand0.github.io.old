@@ -33,4 +33,3 @@ Disponibilidad, puesto que también nos permiten detectar y corregir determinado
 > I may have already mentioned above that you can patch a bug in STORED PROCEDURE without having to stop anything. Hence, availability. 
 
 Un recordatorio, presentado de forma llamativa.
-
