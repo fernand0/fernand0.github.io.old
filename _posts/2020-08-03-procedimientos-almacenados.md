@@ -11,7 +11,7 @@ imagefeature: http://live.staticflickr.com/5300/5543123497_f850371f0c.jpg
 En seguridad informática siempre se habla de los procedimientos almacenados como un mecanismo para evitar el problema de la inyección de SQL. En [ What have the STORED PROCEDURES ever done for us? ]( What have the STORED PROCEDURES ever done for us? ) defienden  se pueden conseguir ventajas como:
 > 
 
-    Your application is only aware of that one database account that can only execute SP required by your application and nothing more.
+> Your application is only aware of that one database account that can only execute SP required by your application and nothing more.
 
 >    That application account can't access data at all directly.
 
