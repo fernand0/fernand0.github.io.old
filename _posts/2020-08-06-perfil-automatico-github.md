@@ -13,7 +13,7 @@ Esta entrada pretende mostrar una de esas pruebas, que permite **actualizar auto
 
 Lo que cuento se basa en las indicaciones que se pueden encontrar en [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) (sigo el sitio de Simmon Willison desde hace mucho tiempo y fue una sorpresa agradable descubrir la receta y otras inspiraciones) y también en [How I Built A Self-Updating README On My Github Profile](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/) (en este caso encontrado gracias a una búsqueda de Google y con algunas ideas de diseños más atractivos, al menos para mi).
 
-[GitHub](https://github.com/) ha lanzado recientemte el léeme del perfil (*README*) que permite utilizar *markdown* para incluir información en el perfil del usuario. Basta con crear un repositorio público nuevo con el nombre del propio usuario (en mi caso, [github.com/fernand0/fernand0](https://github.com/fernand0/fernand0) e incluir un fichero *README*. 
+[GitHub](https://github.com/) ha lanzado recientemte el léeme del perfil (*README*) que permite utilizar *markdown* para incluir información personalizada en el perfil del usuario. Basta con crear un repositorio público nuevo con el nombre del propio usuario (en mi caso, [github.com/fernand0/fernand0](https://github.com/fernand0/fernand0) e incluir un fichero *README*. 
 GitHub utilizará este fichero para mostrarlo en nuestra página de perfil.
 
 Siendo un repositorio, uno puede preguntarse (al menos Willison lo hizo) si puede **automatizar algunas tareas** relacionadas con el mismo.
