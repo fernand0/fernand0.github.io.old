@@ -8,10 +8,10 @@ imagefeature: https://github.com/fernand0/fernand0/blob/master/img/Screenshot%20
 ---
 
 <a href="https://github.com/fernand0/fernand0/" title="Centro de Exposiciones del Centro de Conocimiento sobre se… "><img src="https://github.com/fernand0/fernand0/blob/master/img/Screenshot%20from%202020-08-06%2019-10-17.png?raw=true" alt="Imagen de la página " width="240" style="float:left; margin:5px"></a>
-Programar me relaja y me gusta hacer pruebas, aunque el tiempo disponible no sea demasiado. También me gustaría incluir en esta bitácora algunas de esas pruebas, por si le sirven a alguien para algo, que es algo que necesita todavía más tiempo. 
+Programar me relaja y además me gusta hacer pruebas, aunque el tiempo disponible no sea demasiado. También me gustaría incluir en esta bitácora algunas de esas pruebas, por si le sirven a alguien para algo, que es algo que necesita todavía más tiempo. 
 Esta entrada pretende mostrar una de esas pruebas, que permite **actualizar automáticamente el perfil de GitHub** gracias a algunas características que han incluido recientemente en esa 'red social' de desarrolladores.
 
-Lo que cuento se basa en las indicaciones que se pueden encontrar en [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) (sigo el sitio de Simmon Willison desde hace mucho tiempo y fue una sorpresa agradable descubrir la receta y otras inspiraciones) y también en [How I Built A Self-Updating README On My Github Profile](How I Built A Self-Updating README On My Github Profile) (en este caso encontrado gracias a una búsqueda de Google y con algunas ideas de diseños más atractivos, al menos para mi).
+Lo que cuento se basa en las indicaciones que se pueden encontrar en [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) (sigo el sitio de Simmon Willison desde hace mucho tiempo y fue una sorpresa agradable descubrir la receta y otras inspiraciones) y también en [How I Built A Self-Updating README On My Github Profile](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/) (en este caso encontrado gracias a una búsqueda de Google y con algunas ideas de diseños más atractivos, al menos para mi).
 
 [GitHub](https://github.com/) ha lanzado recientemte el léeme del perfil (*README*) que permite utilizar *markdown* para incluir información en el perfil del usuario. Basta con crear un repositorio público nuevo con el nombre del propio usuario (en mi caso, [github.com/fernand0/fernand0](https://github.com/fernand0/fernand0) e incluir un fichero *README*. 
 GitHub utilizará este fichero para mostrarlo en nuestra página de perfil.
@@ -25,8 +25,8 @@ No voy a entrar en mucho detalle, pero contiene:
 * Después, permite **ejecutarlas** (dónde se ejecuta -sistema y entorno de desarrollo, incluyendo instalación de paquetes si es necesario-: en mi caso en una Ubuntu con el lenguaje Python) y algunas cosas más (por ejemplo, definir *TOKENS* necesarios para realizar determinadas acciones -en nuestro caso, utilizar el *Graph QL* API de GitHub).
 * Finalmente, **utilizar el resultado** de esas acciones para generar la información que aparecerá en nuestro perfil (Fundamentalmente hacer un *push* si ha habido cambios).
 
-En mi caso, decidí incluir información relacionada con repositorios (contribuciones -mínimas- a los de otros proyectos y a mis propios repositorios públicos). 
-Además se incluyen las últimas entradas en mis dos bitácoras más activas (incluye esta) y se muestran en la página.
+Sobre mi actividad en el propio sitio, decidí incluir información relacionada con repositorios (contribuciones -mínimas- a los de otros proyectos y a mis propios repositorios públicos). 
+Sobre otra actividad, pensé en incluir las últimas entradas en mis dos bitácoras más activas (incluye esta) y se muestran en la página.
 
 El **código de actualización** está en [build_readme.py](https://github.com/fernand0/fernand0/blob/89e087ef772db03624450203d2c8b643ffee986a/build_readme.py) (versión en el momento de escribir esta entrada del código basado en el de Willison, las partes mejor realizadas son mérito suyo, las más feas son mis propios 'apaños').
 
@@ -69,7 +69,7 @@ Para construirla GitHub nos proporciona una herramienta muy útil, que es el '[G
 
 Para **mostrar la información de las bitácoras**, utilizo el paquete 'feedparser' que ya usábamos hace algún tiempo en [Publicar en Facebook las entradas de este sitio usando Python](http://fernand0.github.io/Publicar-En-Facebook-Las-Entradas-De-Este-Sitio/) para extraer la información, formatearla y añadirla al *README*.
 
-Por otro lado, de Hoffman he mirado los simbolitos sociales (y he descubierto [Shields.io](https://shields.io/) que parece un sistema de generación de logos utilizando SVG y otros trucos (he usado algunos que ya tenía Hoffman y he 'añadido' otros que no existían, no se qué sucederá) y el formato en una sola columna (Willison tiene una tabla con tres columnas que no se ven muy bien, por ejemplo, en el navegador de un teléfono móvil).
+Por otro lado, de Hoffman he mirado los simbolitos sociales (y he descubierto [Shields.io](https://shields.io/) que parece un sistema de generación de logos utilizando SVG y otros trucos; he usado algunos que ya tenía Hoffman y he 'añadido' otros que no existían, no se qué sucederá) y el formato en una sola columna (Willison tiene una tabla con tres columnas que no se ven muy bien, por ejemplo, en el navegador de un teléfono móvil).
 
 
 **¿Qué pasará a partir de ahora?**
