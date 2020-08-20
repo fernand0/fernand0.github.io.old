@@ -14,14 +14,23 @@ Un API (*Application Programming Interface*) es una forma en la que se pueden pr
 Incluye, claro, cuestiones muy similares a las generales en seguridad: autorización de acceso a los objetos incorrecta, autentificación incorrecta del usuario, exceso en la exposición de datos, problemas con escasez de recursos y limitaciones de acceso, problemas de autorización con respecto al nivel de acceso, asignaciones de datos poco controladas, mala configuración de seguridad, problemas de inyección, gestión inadecuada de recursos y falta de registro de actividad y monitorización.
 
 > API1:2019 Broken Object Level Authorization
+
 > API2:2019 Broken User Authentication
+
 > API3:2019 Excessive Data Exposure
+
 > API4:2019 Lack of Resources & Rate Limiting
+
 > API5:2019 Broken Function Level Authorization
+
 > API6:2019 Mass Assignment
+
 > API7:2019 Security Misconfiguration
+
 > API8:2019 Injection
+
 > API9:2019 Improper Assets Management
+
 > API10:2019 Insufficient Logging & Monitoring
 
-Intersante.
+Interesante.
