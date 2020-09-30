@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Programando criptografía"
-date: "Tue Sep 30 10:02:01 +0100 2020"
+date: "Wed Sep 30 10:02:01 +0100 2020"
 category: seguridad
 tags: [seguridad, criptografía, programación, python]
 imagefeature: https://live.staticflickr.com/65535/49373632368_1a5dcce433.jpg
