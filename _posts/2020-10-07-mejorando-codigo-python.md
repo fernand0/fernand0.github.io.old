@@ -7,7 +7,7 @@ tags: [desarrollo, coste, tiempo, memoria, programación, python]
 imagefeature: http://live.staticflickr.com/3557/3407158925_632643109e.jpg
 ---
 
-<a href="https://www.flickr.com/photos/fernand0/3407158925/" title="Memoria recursiva de Universa "><img src="http://live.staticflickr.com/3557/3407158925_632643109e.jpg" alt="Memoria recursiva de Universa " class="img-responsive img-centered"></a>
+<a href="https://www.flickr.com/photos/fernand0/3407158925/" title="Memoria recursiva de Universa "><img src="https://live.staticflickr.com/3557/3407158925_632643109e.jpg" alt="Memoria recursiva de Universa " width="240" style="float:left; margin:5px"></a>
 Esta entrada habla de Python, pero a veces por desconocimiento (o comodidad) no utilizamos todas las características de nuestros lenguajes favoritos y me pareció de interés.
 
 En [Reduce Memory Usage and Make Your Python Code Faster Using Generators](Reduce Memory Usage and Make Your Python Code Faster Using Generators) hablan de los generadores, como un mecanismo para gastar menos memoria y generar un código más eficiente en Python.
