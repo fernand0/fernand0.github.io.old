@@ -8,7 +8,7 @@ imagefeature: http://live.staticflickr.com/30/43497843_8a0cc516cb.jpg
 ---
 
 <a href="https://www.flickr.com/photos/fernand0/43497843/" title="CEDI. The ideal of Verified Software. "><img src="http://live.staticflickr.com/30/43497843_8a0cc516cb.jpg" alt="CEDI. The ideal of Verified Software. " width="240" style="float:left; margin:5px"></a>
-Un ejercicio curioso en [Getting a program right, in nine episodes](Getting a program right, in nine episodes) donde Bertrand Meyer nos acompaña donde desarrolla un programa sencillo y lo va mejorando mediante técnicas de verificación formal. 
+Un ejercicio curioso en [Getting a program right, in nine episodes](https://bertrandmeyer.com/2020/03/26/getting-program-right-nine-episodes/) donde Bertrand Meyer nos acompaña donde desarrolla un programa sencillo y lo va mejorando mediante técnicas de verificación formal. 
 
 Aunque el *testing* ha ganado muchos adeptos hay que recordar lo que decía Dijkstra: las pruebas pueden demostrar la presencia de errores, no su ausencia.
 
