@@ -15,6 +15,6 @@ Suelen ser articulitos cortos que se leen fácil y aportan puntos de vista inter
 En el último número hablan sobre [Test and Diagnostics](http://www.crosstalkonline.org/issues/marapril-2015.html) y a mi me han interesado especialmente:
 
 * [[PDF] BackTalk: The Proof is in the Testing](http://www.crosstalkonline.org/storage/issue-archives/2015/201503/201503-Cook.pdf) donde el autor nos recuerda la cadena de fallos que llevaron al desastre del Arianne 5.
-* [[PDF] Fuzz Testing for Software Assurance](Fuzz Testing for Software Assurance) donde se introduce esta idea para las pruebas: enviar entradas aleatorias para ver si fallan los programas.
+* [Fuzz Testing for Software Assurance](https://www.nist.gov/publications/fuzz-testing-software-assurance) donde se introduce esta idea para las pruebas: enviar entradas aleatorias para ver si fallan los programas.
 
 Hemos hablado bastante de fuzzing (ver (tag fuzzing)[https://mbpfernand0.wordpress.com/tag/fuzzing/] en el blog antiguo) y [Coches y ataques](http://fernand0.github.io/Coches-Y-Ataques/) en este mismo blog.
