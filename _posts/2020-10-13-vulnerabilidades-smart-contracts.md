@@ -12,7 +12,7 @@ De la mano de *blockchain* han venido los *smart contracts*: se trata de 'progra
 
 Desde la ignorancia informada, uno siempre ha pensado que si se ha de codificar determinadas condiciones de la vida en un contrato la cosa ya es suficientemente compleja. Si a eso le añadimos la ejecución automatizada, es probable que haya que hilar más fino. Y, claro, aparecen los *bugs* y las vulnerabilidades.
 
-De esto hablaban en [Las 5 vulnerabilidades más habituales de los Smart Contracts](Las 5 vulnerabilidades más habituales de los Smart Contracts) y lo más gracioso es que los fallos se parecen mucho a los de los programas 'normales'.
+De esto hablaban en [Las 5 vulnerabilidades más habituales de los Smart Contracts](https://www.securityartwork.es/2020/03/10/las-5-vulnerabilidades-mas-habituales-de-los-smart-contracts/) y lo más gracioso es que los fallos se parecen mucho a los de los programas 'normales'.
 
 * Errores aritméticos con números enteros
 
