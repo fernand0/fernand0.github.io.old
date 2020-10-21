@@ -8,7 +8,7 @@ imagefeature: http://live.staticflickr.com/5300/5543123497_f850371f0c.jpg
 ---
 
 <a href="https://www.flickr.com/photos/fernand0/5543123497/" title="Centro de Exposiciones del Centro de Conocimiento sobre se… "><img src="http://live.staticflickr.com/5300/5543123497_f850371f0c.jpg" alt="Centro de Exposiciones del Centro de Conocimiento sobre servicios públicos electrónicos. Almacenamiento. " width="240" style="float:left; margin:5px"></a>
-En seguridad informática siempre se habla de los procedimientos almacenados como un mecanismo para evitar el problema de la inyección de SQL. En [ What have the STORED PROCEDURES ever done for us? ]( What have the STORED PROCEDURES ever done for us? ) defienden  se pueden conseguir ventajas como:
+En seguridad informática siempre se habla de los procedimientos almacenados como un mecanismo para evitar el problema de la inyección de SQL. En [What have the STORED PROCEDURES ever done for us?](https://dev.to/vbilopav/what-have-the-stored-procedures-ever-done-for-us-44f6) defienden  se pueden conseguir ventajas como:
 > 
 
 > Your application is only aware of that one database account that can only execute SP required by your application and nothing more.
