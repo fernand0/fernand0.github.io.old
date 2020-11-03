@@ -29,3 +29,6 @@ Eso sí, no está claro el alcance de la actualización.
 
 Interesante.
 
+**Actualización (2020-11-03):** En otros modelos de la casa, nos enteramos de que [Boeing 747s still get critical updates via floppy disks](Boeing 747s still get critical updates via floppy disks). 
+
+> Pen Test Partners discovered a 3.5-inch floppy disk drive in the cockpit, which is used to load important navigation databases. It’s a database that has to be updated every 28 days, and an engineer visits each month with the latest updates.
