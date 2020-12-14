@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Zoom, seguridad, comodidad y campañas de "información"
+title: Zoom, seguridad, comodidad y campañas de información
 date: "Mon Dec 14 15:02:01 +0100 2020"
 category: seguridad
 tags: [seguridad, videoconferencia, zoom, comodidad, compromiso]
