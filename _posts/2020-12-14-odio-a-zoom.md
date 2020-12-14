@@ -4,7 +4,7 @@ title: "Zoom, seguridad, comodidad y campañas de 'información'"
 date: "Mon Dec 14 15:02:01 +0100 2020"
 category: seguridad
 tags: [seguridad, videoconferencia, zoom, comodidad, compromiso]
-imagefeature:http://live.staticflickr.com/2320/2499177904_5603b27799.jpg
+imagefeature: http://live.staticflickr.com/2320/2499177904_5603b27799.jpg
 ---
 
 <a href="https://www.flickr.com/photos/fernand0/2499177904/in/photolist-4NQWwd-4mgL5L-ENmc8-7bq4Kr-ENnCU-ji3f-ji38-3sqY8-34p42E-49ax2M" title="El trípode de Samuel "><img src="http://live.staticflickr.com/2320/2499177904_5603b27799.jpg" alt="El trípode de Samuel " width="240" style="float:left; margin:5px"></a>
