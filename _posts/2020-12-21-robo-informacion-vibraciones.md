@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Técnicas novedosas de exfiltración de información: la vibración de los ventiladores"
-date: "Mon Dec 22 15:02:01 +0100 2020"
+date: "Mon Dec 21 15:02:01 +0100 2020"
 category: seguridad
 tags: [seguridad, espionaje, robo, información, exfiltrado, ventilador, vibraciones]
 imagefeature: http://live.staticflickr.com/7476/15716695910_15030e55a7.jpg
