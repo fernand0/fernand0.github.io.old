@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Ocupación de nombres en paquetes de Ruby"
-date: "Mon Jan 01 15:02:01 +0100 2021"
+date: "Mon Jan 04 15:02:01 +0100 2021"
 category: seguridad
 tags: [seguridad, desarrollo, gemas, ruby, ocupación, nombres, typosquatting]
 imagefeature: http://live.staticflickr.com/207/523829842_de2311f514.jpg
