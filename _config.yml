@@ -26,6 +26,7 @@ footer-links:
   facebook: fernando.tricas
   flickr: fernand0
   github: fernand0
+  dev-to: fernand0
   instagram: ftricas
   linkedin: fernand0
   pinterest: 
@@ -33,7 +34,7 @@ footer-links:
   twitter: fernand0
   stackoverflow: users/5671682/fernand0 # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: user/fernand0 # channel/<your_long_string> or user/<user-name>
-  googleplus: u/1/112862240851570159916 # anything in your profile username that comes after plus.google.com/
+  #googleplus: u/1/112862240851570159916 # anything in your profile username that comes after plus.google.com/
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
