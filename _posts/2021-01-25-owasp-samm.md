@@ -8,7 +8,7 @@ imagefeature: https://live.staticflickr.com/176/399144526_e289577520.jpg
 ---
 
 <a href="https://www.flickr.com/photos/fernand0/399144526/in/photolist-2bPNE-67pka3-4LARE-d3wNmS-5EwrHX-BgHLb-3R8zu" title="The pila seguridad "><img src="https://live.staticflickr.com/176/399144526_e289577520.jpg" alt="The pila seguridad " width="240" style="float:left; margin:5px" /></a>
-Ya hemos hablado alguna vez de los modelos de madurez sobre seguridad y, en particular, del de la OWASP, el SAMM ([Modelo de Seguridad en programas informáticos de la OWASP](http://fernand0.github.io/owasp-modelos-madurez/).
+Ya hemos hablado alguna vez de los modelos de madurez sobre seguridad y, en particular, del de la OWASP, el SAMM ([Modelo de Seguridad en programas informáticos de la OWASP](http://fernand0.github.io/owasp-modelos-madurez/)).
 
 En [OWASP SAMM v2: lessons learned after 9 years of assessment](https://blog.mindedsecurity.com/2020/04/owasp-samm-v2-lessons-learned-after-9.html) lo que dice el título, algunas de las lecciones aprendidas en este proceso.
 
