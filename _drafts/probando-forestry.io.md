@@ -14,7 +14,7 @@ imagefeature: ''
 ---
 Este sitio está gestionado con [jekyll](Jekyll) y [GitHub pages](https://pages.github.com/ "GitHub pages"). Trabajar con ficheros de texto y git me resulta cómodo. Para otros proyectos he echado de menos un montaje similar pero que también tenga interfaz web.
 
-Decía yo en Twitter:
+[Decía yo en Twitter](https://twitter.com/fernand0/status/1362628583076859907 "Hilo sobre el tema"):
 
 * Necesitamos algo como Google Docs pero con markdown o similar.
 * La idea sería poder editar en local o en la web según convenga y tenerlo siempre disponible. Las piezas las tenemos:
