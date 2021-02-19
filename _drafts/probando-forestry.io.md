@@ -23,3 +23,8 @@ Decía yo en Twitter:
   * Interfaz web para editar en línea cuando convenga. Tenemos GitHub, gitlab (creo) y otras interfaces que lo permitían pero no están pensadas para eso.
 
 ¿Alguien conoce un editor web de texto que pudiera servir? Hace falta que:
+
+* Genere texto plano (aceptamos WYSIWYG, pero 'debajo' hay texto)
+* Permita manejar estos textos con algún API.
+
+He recibido dos respuestas:
