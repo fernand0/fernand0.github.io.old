@@ -20,3 +20,5 @@ fields:
 - type: file
   name: imagefeature
   label: imagefeature
+pages:
+- _posts/probando-forestry.io.md
