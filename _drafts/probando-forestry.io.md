@@ -28,3 +28,6 @@ Decía yo en Twitter:
 * Permita manejar estos textos con algún API.
 
 He recibido dos respuestas:
+
+* [Manuel de la Higuera](https://twitter.com/_mhiguera/status/1362639198436622338 "Tuit"), recomendando [forestry.io](https://forestry.io/ "Forestry"), que lo estoy probando con esta entrada, porque está orientado a la gestión de CMSs para sitios web.
+* [Recuenco Jones Jr](https://twitter.com/RecuencoJones/status/1362651163561238531 "Tuit"), recomendando [dillinger.io](https://dillinger.io/ "Dillinger.io"), que se parece más a la idea de editor básico y que habrá que explorar.
