@@ -9,9 +9,11 @@ tags:
 - jekyll
 - Test
 - meta
-imagefeature: ''
+imagefeature: 'https://avecesunafoto.files.wordpress.com/2019/02/img_20190111_134801.jpg'
 
 ---
+<a href="https://avecesunafoto.wordpress.com/2019/02/12/papeleo/" title="Papeleo."><img src="https://avecesunafoto.files.wordpress.com/2019/02/img_20190111_134801.jpg" alt="Papeleo." width="240" style="float:left; margin:5px"></a>
+**Actualización (2021-02-22):** Faltaba una prueba y era editar como texto una entrada para ver qué sucedía. Le hemos añadido la foto de rigor para respetar la homogeneidad del sitio.
 Este sitio está gestionado con [jekyll](Jekyll) y [GitHub pages](https://pages.github.com/ "GitHub pages"). Trabajar con ficheros de texto y git me resulta cómodo. Para otros proyectos he echado de menos un montaje similar pero que también tenga interfaz web.
 
 [Decía yo en Twitter](https://twitter.com/fernand0/status/1362628583076859907 "Hilo sobre el tema"):
