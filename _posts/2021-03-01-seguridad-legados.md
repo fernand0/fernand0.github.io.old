@@ -22,19 +22,19 @@ La lista incluye: tratar la maquinaria como si fueran computadoras, autentificar
 
 > The essential checklist for writing secure task programs includes the following:
 
->     Treat industrial machines as computers and task programs as powerful code
+> Treat industrial machines as computers and task programs as powerful code
 
->     Authenticate every communication
+> Authenticate every communication
 
->     Implement access control policies
+> Implement access control policies
 
->     Always perform input validation
+> Always perform input validation
 
->    Always perform output sanitization
+> Always perform output sanitization
 
->    Implement proper error handling without exposing details
+> Implement proper error handling without exposing details
 
->    Put proper configuration and deployment procedures in places
+> Put proper configuration and deployment procedures in places
 
 
 Nada muy nuevo para cualquier persona interesada en la seguridad, pero vale la pena recordarlo.
