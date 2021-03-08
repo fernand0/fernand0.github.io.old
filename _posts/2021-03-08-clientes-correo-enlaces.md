@@ -12,9 +12,7 @@ tags:
 imagefeature: 'https://live.staticflickr.com/3782/11409966303_6d5aba8dcc.jpg'
 
 ---
-<a href="https://www.flickr.com/photos/fernand0/48737698728/" title="Portada Real Casa de Correos "><img src="
 <a href="https://www.flickr.com/photos/fernand0/11409966303/" title="Máquina "><img src="https://live.staticflickr.com/3782/11409966303_6d5aba8dcc.jpg" alt="Máquina " width="240" style="float:left; margin:5px"></a>
-ttp://live.staticflickr.com/65535/48737698728_25b68180f2.jpg" alt="Portada Real Casa de Correos " width="240" style="float:left; margin:5px"></a>
 En seguridad informática los ataques pueden venir de las formas más insospechadas (incluso aunque estemos atentos). En este caso traigo [Some email clients are vulnerable to attacks via 'mailto' links](https://www.zdnet.com/article/some-email-clients-are-vulnerable-to-attacks-via-mailto-links/) donde nos cuentan un fallo utilizando enlaces del tipo `'mailto'` (esos enlaces, como sabemos, abren el cliente de correo con un destinatario preconfigurado).
 
 > Mailto refer to special types of links, usually supported by web browsers or email clients. These are links that, when clicked, they open a new email compose/reply window rather than a new web page (website).
