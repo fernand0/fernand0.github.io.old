@@ -13,7 +13,6 @@ imagefeature: 'http://live.staticflickr.com/65535/48737698728_25b68180f2.jpg'
 
 ---
 <a href="https://www.flickr.com/photos/fernand0/48737698728/" title="Portada Real Casa de Correos "><img src="http://live.staticflickr.com/65535/48737698728_25b68180f2.jpg" alt="Portada Real Casa de Correos " width="240" style="float:left; margin:5px"></a>
-<a href="https://www.flickr.com/photos/fernand0/50338054856/" title="Reloj "><img src="http://live.staticflickr.com/65535/50338054856_60589bb8da.jpg" alt="Reloj " width="240" style="float:left; margin:5px"></a>
 El correo electrónico es una de las aplicaciones más viejas de internet. Además es una de las pocas que se ha mantenido verdaderamente descentralizada: es cierto que hay una cierta tendencia al uso de los proveedores habituales, pero sigue habiendo muchos servidores de correo 'independientes' y con los que todo el mundo tiene que poder interactuar.
 
 Esto provoca que haya algunos problemas de seguridad (y el spam, claro). En [Decades-Old Email Flaws Could Let Attackers Mask Their Identities](Decades-Old Email Flaws Could Let Attackers Mask Their Identities) hablan del tema, centrándose en algunos de los sistemas que se han añadido para hacer que el correo sea más seguro y confiable.
