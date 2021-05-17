@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Un ejemplo de uso del OAuth de Google con Node.js
+title: Complejidad y diseño de sistemas seguros
 date: 2021-05-17 15:00:00 +0000
 category: seguridad
 tags:
