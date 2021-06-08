@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ataques laterales para obtener información: la memoria como WiFi
+title: "Ataques laterales para obtener información: la memoria como WiFi"
 date: 2021-06-08 15:00:00 +0000
 category: seguridad
 tags:
