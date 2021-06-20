@@ -12,7 +12,7 @@ tags:
 imagefeature: 'http://live.staticflickr.com/7448/27867600871_15a68a3412.jpg'
 ---
 <a href="https://www.flickr.com/photos/fernand0/27867600871/" title="cueva "><img src="http://live.staticflickr.com/7448/27867600871_15a68a3412.jpg" alt="cueva " width="240" style="float:left; margin:5px"></a>
-Ya hemos hablado otras veces de critptografía: que no hay que inventarla, que hay que usar métodos conocidos y reconocidos... Sin embargo, no es tan fácil ponerse a utilizar criptografía, sobre todo cuando lo que alguien quiere es tan sencillo como cifrar sus datos de manera razonable, sin tener que convertirse en un critptógrafo o un criptoanalista.
+Ya hemos hablado otras veces de criptografía: que no hay que inventarla, que hay que usar métodos conocidos y reconocidos... Sin embargo, no es tan fácil ponerse a utilizar criptografía, sobre todo cuando lo que alguien quiere es tan sencillo como cifrar sus datos de manera razonable, sin tener que convertirse en un critptógrafo o un criptoanalista.
 Por eso me gustó leer [ Cryptography for programmers 2: Blocks and Randomness ](https://dev.to/shierve/cryptography-for-programmers-2-blocks-and-randomness-3ho1) donde explican justamnente esa parte, los bloques y cómo se emplean en el cifrado y el tema de la aleatoriedad (otro 'favorito' de este sitio).
 
 Si alguien está interesado la entrada forma parte de una serie de cuatro, dedicadas a los principios básicos, y otros temas interesantes, además de este.
