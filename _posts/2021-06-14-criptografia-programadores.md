@@ -4,7 +4,7 @@ title: "Algunos consejos prácticos sobre criptografía para programadores"
 date: "2021-06-14 15:00:00 +0000"
 category: seguridad
 tags:
-- critptografía
+- criptografía
 - cifrado
 - programadores 
 - desarrollo
