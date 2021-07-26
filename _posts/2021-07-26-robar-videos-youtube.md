@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un ejemplo de iteracción insegura entre sistemas seguros: YouTube"
+title: "Un ejemplo de interacción insegura entre sistemas seguros: YouTube"
 date: "2021-07-19 15:00:00 +0000"
 category: seguridad
 tags:
