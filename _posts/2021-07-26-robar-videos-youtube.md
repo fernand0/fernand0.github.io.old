@@ -16,7 +16,7 @@ Hacer un sistema invulnerable es muy difícil. Hay personas muy ingeniosas que e
 
 > ... and Private, where only you can watch the video, or other accounts you’ve explicitly given permission to do so.
 
-Después de probar directamente, pensó que podría tratar de probar con otros servicios de Google, de forma que a través de ellos pudiera saltarse las protecciones (el típico caso en el que una herramienta confía en otra, más de lo que debería).
+Después de intentarlo directamente, pensó que podría tratar de probar con otros servicios de Google, de forma que a través de ellos pudiera saltarse las protecciones (el típico caso en el que una herramienta confía en otra, más de lo que debería).
 
 > A great thing to do in a situation like this, is to try to look for other products/services which are not your main target, but are somehow interacting with its resources internally. If they have access to its resources, it might be possible that they don’t have every level of protection that the main product has.
 
@@ -24,7 +24,7 @@ Y entre ellos encontró el servicio de anuncios (*Ads*) que, efectivamente, acce
 
 > It had an embedded player, some statistics, and an interesting feature called Moments. It allowed advertisers to “mark” specific moments of the video, to see when different things happen (such as the timestamp of when the company logo appears).
 
-Y, siguiendo con la investigación descubrió una llamada para ver el pantallazo de un momento determinado.
+Siguiendo con la investigación descubrió una llamada para ver el pantallazo de un momento determinado.
 
 > Looking at the proxy logs, every time I “marked a moment”, a POST request was made to a /GetThumbnails endpoint, with a body which included a video ID:
 
