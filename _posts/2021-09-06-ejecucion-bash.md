@@ -11,7 +11,7 @@ tags:
 - procesos
 imagefeature: 'http://live.staticflickr.com/7888/46487127005_0460d48e17.jpg'
 ---
-<a href="https://www.flickr.com/photos/fernand0/46487127005/" title="Conchas "><img src="http://live.staticflickr.com/7888/46487127005_0460d48e17.jpg" alt="Conchas " width="240" style="float:left; margin:5px"></a>
+<a href="https://www.flickr.com/photos/fernand0/46487127005/" title="Conchas "><img src="https://live.staticflickr.com/7888/46487127005_0460d48e17.jpg" alt="Conchas " width="240" style="float:left; margin:5px"></a>
 En [What am I running inside my bash?](https://www.thanassis.space/bashheimer.html) una entrada bastante técnica (con código y todo) sobre la accidentada recuperación de una línea que el autor escribió en su línea de órdenes hace unos meses.
 
 > I desperately needed to extract the complete (and very lengthy) command line I had written 6 months ago in a bash shell - which was still running under screen. Read on to see how I eventually made it... 
