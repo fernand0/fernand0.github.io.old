@@ -9,7 +9,7 @@ tags:
 - programación
 - web
 - html
-imagefeature: 'http://live.staticflickr.com/65535/51109536859_222e734bc0.jpg'
+imagefeature: 'https://live.staticflickr.com/65535/51109536859_222e734bc0.jpg'
 ---
 <a href="https://www.flickr.com/photos/fernand0/51109536859/in/dateposted/" title="Mesa de trabajo "><img src="http://live.staticflickr.com/65535/51109536859_222e734bc0.jpg" alt="Mesa de trabajo " width="240" style="float:left; margin:5px"></a>
 En [How to Build HTML Forms Right: Security](https://austingil.com/how-to-build-html-forms-right-security/) otro resumen de los que estamos trayendo últimamente. En este caso, sobre cómo preparar formularios en HTML teniendo en cuenta la seguridad.
