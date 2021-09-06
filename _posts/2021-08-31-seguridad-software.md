@@ -10,7 +10,7 @@ tags:
 imagefeature: 'http://live.staticflickr.com/2044/1557977187_7383ad79f1.jpg'
 ---
 <a href="https://www.flickr.com/photos/fernand0/1557977187/" title="Teruel. Torre mudéjar. "><img src="http://live.staticflickr.com/2044/1557977187_7383ad79f1.jpg" alt="Teruel. Torre mudéjar. " width="240" style="float:left; margin:5px"></a>
-En [Applying Software Security to Security Software](https://aaronbedra.com/post/securing_security_software/) utiliza la excusa de la seguridad del software de seguridad (mucha seguridad, pero ya hemos dicho varias veces como sorprende muchas veces que los programas informáticos de las empresas de seguridad fallan muchas veces, igual que los otros, en estos aspectos). Todo a raíz del descubrimiento de un fallo en `sudo.
+En [Applying Software Security to Security Software](https://aaronbedra.com/post/securing_security_software/) utiliza la excusa de la seguridad del software de seguridad (mucha seguridad, pero ya hemos dicho varias veces como sorprende muchas veces que los programas informáticos de las empresas de seguridad fallan muchas veces, igual que los otros, en estos aspectos). Todo a raíz del descubrimiento de un fallo en `sudo`.
 
 > When it comes to software security, the devil is in the details. When it comes to security software, those details are even more important. Just recently a significant bug was found in sudo, demonstrating that even the most highly scrutinized software can still contain mistakes. 
 
