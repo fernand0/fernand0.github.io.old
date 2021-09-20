@@ -11,7 +11,7 @@ tags:
 imagefeature: 'https://live.staticflickr.com/176/399144526_e289577520.jpg'
 ---
 <a href="https://www.flickr.com/photos/fernand0/399144526/" title="The pila seguridad "><img src="https://live.staticflickr.com/176/399144526_e289577520.jpg" alt="The pila seguridad " width="240" style="float:left; margin:5px"></a>
-Cuando se habla de progrmación segura, suele decirse aquello de: 'utiliza un lenguaje que sea seguro' y, a veces, se pone como ejemplo Java (fundamentalmente por su gestión automática de la memoria, en contraposición con C; en este último la memoria se gestiona de manera manual por parte del programador).
+Cuando se habla de programación segura, suele decirse aquello de: 'utiliza un lenguaje que sea seguro' y, a veces, se pone como ejemplo Java (fundamentalmente por su gestión automática de la memoria, en contraposición con C; en este último la memoria se gestiona de manera manual por parte del programador).
 
 En [No, Java is not a Secure Programming Language](https://littlemaninmyhead.wordpress.com/2021/01/28/no-java-is-not-a-secure-programming-language/) el autor argumenta que Java no es tan seguro como suele decirse.
 
