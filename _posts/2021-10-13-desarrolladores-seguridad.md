@@ -13,7 +13,7 @@ imagefeature: 'http://live.staticflickr.com/1648/24505437010_c018626c37.jpg'
 <a href="https://www.flickr.com/photos/fernand0/24505437010/" title="Muralla "><img src="http://live.staticflickr.com/1648/24505437010_c018626c37.jpg" alt="Muralla " width="240" style="float:left; margin:5px"></a>
 Es ya un tema viejo debatir si la seguridad es cosa de desarrolladores o no. Yo tengo clarísimo que los desarrolladores deben saber de estos temas, deben tener directrices claras y resolver los problemas pensando -también- en la seguridad.
 
-En [Developers vs. Security: Who is Responsible for Application Security?]https://securityintelligence.com/articles/application-security-developers-who-is-responsible/] nos hablaban de ello y por eso lo traemos aquí.
+En [Developers vs. Security: Who is Responsible for Application Security?](https://securityintelligence.com/articles/application-security-developers-who-is-responsible/) nos hablaban de ello y por eso lo traemos aquí.
 
 Lo primero, parece que la gente de seguridad desconfía de los desarrolladores y de su conocimiento sobre el tema, según un estudio de GitLab.
 
