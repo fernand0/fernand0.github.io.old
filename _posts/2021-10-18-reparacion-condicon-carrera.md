@@ -10,7 +10,7 @@ tags:
 - sesiones
 imagefeature: 'https//live.staticflickr.com/65535/49477090451_7df6db888a.jpg'
 ---
-<a href="https://www.flickr.com/photos/fernand0/49477090451/" title="Reloj y campanas "><img src="https//live.staticflickr.com/65535/49477090451_7df6db888a.jpg" alt="Reloj y campanas " width="240" style="float:left; margin:5px"></a>
+<a href="https://www.flickr.com/photos/fernand0/49477090451/" title="Reloj y campanas "><img src="https://live.staticflickr.com/65535/49477090451_7df6db888a.jpg" alt="Reloj y campanas " width="240" style="float:left; margin:5px"></a>
 En [How we found and fixed a rare race condition in our session handling](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/) una historia sobre una condición de carrera en el manejo de sesiones en GiHub.
 
 Las condiciones de carrera son fallos que aparecen en sistemas concurrentes, suelen ser difíciles de encontrar y solucionar, porque pueden aparecer o no, y podremos ver los resultados sólo en algunas ocasiones. Recordemos que una condición de carrera ocurre cuando se debe cumplir alguna condición durante un cierto tiempo pero, por algún motivo, esto no se cumple. Si nos encontramos en una situación así, el código se comporta como si la condición fuera cierta y los resultados pueden ser incorrectos.
