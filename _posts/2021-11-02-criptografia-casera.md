@@ -15,7 +15,7 @@ Uno de los consejos que siempre se da con respecto a la criptografía es no mete
 
 De este tema se habla en [Actually, You Are Rolling Your Own Crypto](https://galois.com/blog/2021/03/actually-you-are-rolling-your-own-crypto/).
 
-Sin embargo, lo cierto es que los algoritmos son una parte del tema y que luego hay que tener en cuenta más aspectos, que podrían tener consecuencias nefastas.
+Así que solemos preocuparnos por los algoritmos y, sin embargo, lo cierto es que solo son una parte del tema y que luego hay que tener en cuenta más aspectos, que podrían tener consecuencias nefastas.
 
 > What they might not realize is that the algorithms themselves are the first in a series of traps, each of which can have catastrophic effects on the outcomes of cryptography use.
 
