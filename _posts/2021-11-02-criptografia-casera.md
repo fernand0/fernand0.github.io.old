@@ -8,9 +8,10 @@ tags:
 - criptografía
 - protocolos
 - desarrollo
-imagefeature: 'http://live.staticflickr.com/4771/39855842155_056cf6ec83.jpg
+imagefeature: 'https://live.staticflickr.com/4771/39855842155_056cf6ec83.jpg
 ---
-<a href="https://www.flickr.com/photos/fernand0/39855842155/" title="Enigma "><img src="http://live.staticflickr.com/4771/39855842155_056cf6ec83.jpg" alt="Enigma " width="240" style="float:left; margin:5px"></a>
+
+<a href="https://www.flickr.com/photos/fernand0/39855842155/" title="Enigma "><img src="https://live.staticflickr.com/4771/39855842155_056cf6ec83.jpg" alt="Enigma " width="240" style="float:left; margin:5px"></a>
 Uno de los consejos que siempre se da con respecto a la criptografía es no meterse en ese negociado sin experiencia (*“don’t roll your own crypto”*). 
 
 De este tema se habla en [Actually, You Are Rolling Your Own Crypto](https://galois.com/blog/2021/03/actually-you-are-rolling-your-own-crypto/).
