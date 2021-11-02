@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Estás desarrollando tu propia criptografía. Y (no) lo sabes."
+title: "Estás desarrollando tu propia criptografía. Y no lo sabes."
 date: "2021-11-02 15:00:00 +0000"
 category: seguridad
 tags:
