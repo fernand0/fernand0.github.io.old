@@ -9,9 +9,9 @@ tags:
 - github
 - autorización
 - autentificación
-imagefeature: 'https//live.staticflickr.com/53/108132770_3d96ff2de5.jpg'
+imagefeature: 'https://live.staticflickr.com/53/108132770_3d96ff2de5.jpg'
 ---
-<a href="https://www.flickr.com/photos/fernand0/108132770/" title="Más bolas "><img src="https//live.staticflickr.com/53/108132770_3d96ff2de5.jpg" alt="Más bolas " width="240" style="float:left; margin:5px"></a>
+<a href="https://www.flickr.com/photos/fernand0/108132770/" title="Más bolas "><img src="https://live.staticflickr.com/53/108132770_3d96ff2de5.jpg" alt="Más bolas " width="240" style="float:left; margin:5px"></a>
 A veces, cuando diseñamos un sistema, no somos conscientes de todas las consecuencias de nuestras decisiones. Tarde o temprano nos tocará cambiar algunas partes para remediar estos problemas. En GitHub se han encontrado con este problema a la hora de identificar los *tokens* de autentificación y descubrir que no podían diferenciar unos tipos de otros.
 En [Behind GitHub's new authentication token formats](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/) nos lo cuentan.
 
