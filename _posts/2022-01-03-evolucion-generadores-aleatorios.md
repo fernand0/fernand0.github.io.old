@@ -9,9 +9,9 @@ tags:
 - random
 - PRNG
 - generadores
-imagefeature: 'https//live.staticflickr.com/49/152110645_43aafcb33c.jpg'
+imagefeature: 'https://live.staticflickr.com/49/152110645_43aafcb33c.jpg'
 ---
-<a href="https://www.flickr.com/photos/fernand0/152110645/" title="La suerte (?) "><img src="https//live.staticflickr.com/49/152110645_43aafcb33c.jpg" alt="La suerte (?) " width="240" style="float:left; margin:5px"></a>
+<a href="https://www.flickr.com/photos/fernand0/152110645/" title="La suerte (?) "><img src="https://live.staticflickr.com/49/152110645_43aafcb33c.jpg" alt="La suerte (?) " width="240" style="float:left; margin:5px"></a>
 De vez en cuando volvemos a hablar de los generadores de números aleatorios. Aunque sólo sea porque alguien la próxima vez lo haga un poco mejor.
 Siempre decimos que los sistemas informáticos son muy malos generando aleatoriedad y que utilizan algunos trucos para ello.
 En este caso John D. Cook entra en detalle en diversas implementaciones y propuestas en [Evolution of random number generators](https://www.johndcook.com/blog/2021/04/29/reinventing-rng/).
