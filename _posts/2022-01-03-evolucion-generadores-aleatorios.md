@@ -18,7 +18,7 @@ En este caso John D. Cook entra en detalle en diversas implementaciones y propue
 
 Habla de los generadores basados en congruencias
 
-> <em>x</em><sub><em>n</em>+1</sub> = <em>a x</em><sub><em>n</em></sub> mod <em>m</em>
+<em>x</em><sub><em>n</em>+1</sub> = <em>a x</em><sub><em>n</em></sub> mod <em>m</em>
 
 Y luego hace algunos análisis estadísticos con algunos valores para los parámetros del generador (los valores de a, n y m). No se asusten, es cortito y muy visual.
 
