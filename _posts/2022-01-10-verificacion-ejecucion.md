@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Algunos (pocos) datos sobre generadores de números aleatorios"
-date: "2022-01-03 15:00:00 +0000"
-category: seguridad
+title: "Sobre la verificación en tiempo de ejecución del kernel de Linux"
+date: "2022-01-10 15:00:00 +0000"
+category: verificación
 tags:
-- seguridad
-- aleatoriedad
-- random
-- PRNG
-- generadores
+- verificación
+- linux
+- kernel
+- trazas
 imagefeature: 'https://live.staticflickr.com/1482/25670959150_c33d8462f1.jpg'
 ---
 <a href="https://www.flickr.com/photos/fernand0/25670959150/" title="Vigilantes "><img src="https://live.staticflickr.com/1482/25670959150_c33d8462f1.jpg" alt="Vigilantes " width="240" style="float:left; margin:5px"></a>
