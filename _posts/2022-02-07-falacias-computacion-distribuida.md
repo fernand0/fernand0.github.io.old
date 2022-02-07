@@ -8,9 +8,9 @@ tags:
 - computación
 - distribuida
 - redes
-imagefeature: 'https//live.staticflickr.com/65535/51455780657_716abcbc56.jpg'
+imagefeature: 'https://live.staticflickr.com/65535/51455780657_716abcbc56.jpg'
 ---
-<a href="https://flickr.com/photos/fernand0/51455780657/" title="Nasas "><img src="https//live.staticflickr.com/65535/51455780657_716abcbc56.jpg" alt="Nasas " width="240" style="float:left; margin:5px"></a>
+<a href="https://flickr.com/photos/fernand0/51455780657/" title="Nasas "><img src="https://live.staticflickr.com/65535/51455780657_716abcbc56.jpg" alt="Nasas " width="240" style="float:left; margin:5px"></a>
 La computación distribuida trata de sacar partido de diferentes recursos de cálculo que podemos tener a nuestra disposición. Es un modelo que tiene sus ventajas (aumento de capacidad) y sus inconvenientes (complicaciones). En [Navigating the 8 fallacies of distributed computing](https://ably.com/blog/8-fallacies-of-distributed-computing) nos habla de algunos mitos.
 
 Los mitos:
