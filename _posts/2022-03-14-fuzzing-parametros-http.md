@@ -8,9 +8,9 @@ tags:
 - fuzzing
 - HTTP
 - interacciones
-imagefeature: 'https//live.staticflickr.com/65535/49420833183_739746d311.jpg'
+imagefeature: 'https://live.staticflickr.com/65535/49420833183_739746d311.jpg'
 ---
-<a href="https://flickr.com/photos/fernand0/49420833183/" title="Banderas y frontera "><img src="https//live.staticflickr.com/65535/49420833183_739746d311.jpg" alt="Banderas y frontera " width="240" style="float:left; margin:5px"></a>
+<a href="https://flickr.com/photos/fernand0/49420833183/" title="Banderas y frontera "><img src="https://live.staticflickr.com/65535/49420833183_739746d311.jpg" alt="Banderas y frontera " width="240" style="float:left; margin:5px"></a>
 Ya hemos hablado a veces de las herramientas de *fuzzing* y cómo podían permitir encontrar fallos de seguridad. También hemos hablado de los parámetros del protocolo HTTP y algunas manipulaciones.
 En esta ocassión podemos hablar de la reunión de ambos mundos. En [New differential fuzzing tool reveals novel HTTP request smuggling techniques](https://portswigger.net/daily-swig/new-differential-fuzzing-tool-reveals-novel-http-request-smuggling-techniques) nos contaban cómo unos investigadores habían descubierto nuevos fallos utilizando herramientas de *fuzzing*.
 
