@@ -31,10 +31,16 @@ En cualquier caso, es muy difícil evitar cualquier problema de este tipo que pu
 Nada muy nuevo, pero a veces lo olvidamos.
 
 > Have a stricter vendor policy. Don't source from multiple private registries when you can use only one.
+
 > When you register a private repository, register a public repository with the same name to prevent typosquatting.
+
 > Keep all software up to date, even if the update process is now a risk too.
+
 > Secure all configuration files and never deploy them on production, or, at least restrict their access.
+
 > Be extremely careful with IT management interfaces. Privileged accounts with a super high level of access should be few.
+
 > Have several layers of defense and use monitoring tools such as SIEM or SOAR to detect suspicious behaviors early.
+
 > Segment your networks. Don't let any breach at a low level expose the whole system.
 
