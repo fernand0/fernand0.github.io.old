@@ -12,6 +12,7 @@ imagefeature: 'https://live.staticflickr.com/39/78845245_77bbdb9660.jpg'
 ---
 <a href="https://flickr.com/photos/fernand0/78845245/" title="Regalos: ¡dos paquetes! "><img src="https://live.staticflickr.com/39/78845245_77bbdb9660.jpg" alt="Regalos: ¡dos paquetes! " width="240" style="float:left; margin:5px"></a>
 A veces recomendamos demasiado alegremente que la gente registre un dominio para gestionar su 'marca' (personal o de empresa) y nos olvidamos de las consecuencias negativas que esto puede tener si no se tiene un poco de cuidado.
+**Actualización (2022-11-19):** casualmente veo este artículo argumentando a favor del uso de un dominio, [Why everyone should register a domain name](https://www.theguardian.com/commentisfree/2013/mar/28/why-everyone-should-register-domain-name). Es de hace tiempo, pero muestra la idea.
 
 Vale: utilizar una dirección de correo electrónico genérico puede parecer poco profesional, pero todavía es peor si no mantenemos el compromiso con el dominio que elijamos.
 
