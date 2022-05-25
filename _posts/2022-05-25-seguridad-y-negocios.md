@@ -13,7 +13,7 @@ imagefeature: 'https://live.staticflickr.com/1342/884915968_060d42933b.jpg'
 <a href="https://flickr.com/photos/fernand0/884915968/" title="Muro "><img src="https://live.staticflickr.com/1342/884915968_060d42933b.jpg" alt="Muro " class="img-responsive img-centered"></a>
 Las personas de perfil técnico olvidamos a veces que la parte tecnológica es, normalmente, el apoyo a algún otro asunto o negocio que hay que llevar a cabo. Es importante, y muy necesaria (¿totalmente?), pero no es el objetivo.
 
-Por eso es bueno leer textos como [Cybersecurity as a Business Decision: A Manifesto])https://blogs.gartner.com/paul-proctor/2022/03/27/cybersecurity-as-a-business-decision-a-manifesto/) donde se recuerdan estas cuestiones.
+Por eso es bueno leer textos como [Cybersecurity as a Business Decision: A Manifesto](https://blogs.gartner.com/paul-proctor/2022/03/27/cybersecurity-as-a-business-decision-a-manifesto/) donde se recuerdan estas cuestiones.
 
 La ciberseguridad, nos dicen, es el elemento número uno en cualquier listado de inversiones en tecnología. No sólo eso, la ciberseguridad es un asunto del negocio, y no de tecnología. Sin embargo los comités de dirección no saben manejar la ciberseguridad en este contexto.
 
