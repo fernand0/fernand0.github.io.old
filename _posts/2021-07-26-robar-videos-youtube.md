@@ -36,7 +36,7 @@ Esto sólo es un pantallazo, claro, pero con esa información ver el vídeo comp
 
 > So I just have to download every image starting from 0 milliseconds, incrementing by 33 milliseconds every time, and then construct some kind of video using all of the images I have acquired.
 
-Interesante, aunque seguro que todos están penando que hace falta el identificador del vídeo (el mundo es imperfecto). Además, nos dice, no podremos escuchar el sonido y la resolución no será muy buena.
+Interesante, aunque seguro que todos están pensando que hace falta el identificador del vídeo (el mundo es imperfecto). Además, nos dice, no podremos escuchar el sonido y la resolución no será muy buena.
 
 > In the real world you would have to know the ID of the target video. Mass-leaking those would be considered a bug on its own.
 
