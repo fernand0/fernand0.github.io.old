@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Invesetigadores de seguridad y persecución legal"
+title: "Investigadores de seguridad y persecución legal"
 date: "2022-07-04 15:00:00 +0000"
 category: seguridad
 tags:
