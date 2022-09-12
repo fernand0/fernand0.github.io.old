@@ -21,6 +21,8 @@ Se trata de un ataque que le da acceso al sistema de entretenimiento.
 
 El autor tiene un 2021 Hyundai Ioniq SEL y se pone a 'jugar' con él. En la entrada nos cuenta los pasos que dió y cómo lo consiguió.
 
+Finalmente lo consigue.
+
 > Bingo! My app was running. The buttons also worked flawlessly, allowing me to lock or unlock my doors. I also dumped the logs after exiting my app and saw that my test button log and other debug log entries were successfully written in the Logcat file.
 
 > I now had full control over my car’s IVI, which is certainly a nice feeling. There is still more to be learned about the system though and I might make more posts about it as I find out more information.
