@@ -9,9 +9,9 @@ tags:
 - PRNG
 - seudoaleatorios
 - generadores
-imagefeature: 'https//live.staticflickr.com/2258/2202733728_ef8842d6fd.jpg'
+imagefeature: 'https://live.staticflickr.com/2258/2202733728_ef8842d6fd.jpg'
 ---
-<a href="https://www.flickr.com/photos/fernand0/2202733728/" title="Sistema solar "><img src="https//live.staticflickr.com/2258/2202733728_ef8842d6fd.jpg" alt="Sistema solar " class="img-responsive img-centered"></a>
+<a href="https://www.flickr.com/photos/fernand0/2202733728/" title="Sistema solar "><img src="https://live.staticflickr.com/2258/2202733728_ef8842d6fd.jpg" alt="Sistema solar " class="img-responsive img-centered"></a>
 Ya hemos hablado otras veces de los números aleatorios y la seguridad. En esta ocasión, sin embargo, traemos un artículo sobre números aleatorios (seudoaleatorios, generados) de uso genérico (no se habla de seguridad; me permito recordar que los números seudoaleatorios que se usan en ciberseguridad no pueden ser los mismos que se utilizan en simulaciones, por ejemplo, porque los requisitos son diferentes). 
 
 Se trata de un artículo que ya tiene unos años: [Quality of random number generators significantly affects results of Monte Carlo simulations for organic and biological systems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2992609/). Como es un tema recurrente por aquí (aunque con otro enfoque), valdrá la pena guardarlo.
