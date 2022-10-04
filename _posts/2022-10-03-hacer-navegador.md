@@ -34,3 +34,5 @@ Y también tiene consecuencias desde el punto de vista de la seguridad, siendo e
 Ya queda muy lejos cuando hablábamos de la seguridad de mozilla por su simplicidad frente al Internet Explorer, [Software Complexity: Open Source vs Microsoft
 ](https://www.spinellis.gr/blog/20031003/index.html).
 Por cierto, sorpresa agradable al ver que aún hay entradas recientes (marzo de este año) en ese blog.
+
+**Actualización (2022-10-04)** Me recordaban en Mastodon (no es visible públicamente, no lo enlazo) el reciente anuncio de [Privacy Browser PC](https://www.stoutner.com/privacy-browser-pc/) y lo añado aquí.
