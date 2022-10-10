@@ -19,6 +19,6 @@ En este caso hablamos de [Hackers use PowerPoint files for 'mouseover' malware d
 
 Pero la imagen resulta ser una DLL cifrada y se arma el lío.
 
-The JPEG is an encrypted DLL file (lmapi2.dll), that is decrypted and dropped in the 'C:\ProgramData\' directory, later executed via rundll32.exe. A registry key for persistence is also created for the DLL.
+> The JPEG is an encrypted DLL file (lmapi2.dll), that is decrypted and dropped in the 'C:\ProgramData\' directory, later executed via rundll32.exe. A registry key for persistence is also created for the DLL.
 
 >
