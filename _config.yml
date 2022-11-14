@@ -32,6 +32,7 @@ footer-links:
   pinterest: 
   rss:  feed.xml # https://github.com/snaptortoise/jekyll-rss-feeds
   twitter: fernand0
+  mastodon: @fernand0@mastodon.social
   stackoverflow: users/5671682/fernand0 # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: user/fernand0 # channel/<your_long_string> or user/<user-name>
   #googleplus: u/1/112862240851570159916 # anything in your profile username that comes after plus.google.com/
